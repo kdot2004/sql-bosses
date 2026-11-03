@@ -2,15 +2,15 @@
 
 ## Overview
 This project builds a data pipeline to ingest, clean, transform, and analyze
-[financial dataset]. Developed for [course name], it demonstrates core data
+[financial dataset]. Developed for `I320D Data Engineering`, it demonstrates core data
 engineering concepts through a financial services use case.
 
 ## Team Members
 | Name | Responsibilities |
 |------|------------------|
-| [Name] | [Responsibilities] |
-| [Name] | [Responsibilities] |
-| [Name] | [Responsibilities] |
+| Mark | [Responsibilities] |
+| Dylan | [Responsibilities] |
+| Kenny | [Responsibilities] |
 
 ## Business Problem
 Describe the financial services problem your project addresses.
