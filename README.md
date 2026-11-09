@@ -2,8 +2,7 @@
 
 ## Overview
 This project builds a data pipeline to ingest, clean, transform, and analyze
-data from financial services. Developed for `I320D Data Engineering`, it demonstrates core data
-engineering concepts through a financial services use case.
+data from financial services. Developed for `I320D Data Engineering`, it demonstrates core data engineering concepts through a financial services use case.
 
 ## Team Members
 | Name | Responsibilities |
@@ -14,11 +13,11 @@ engineering concepts through a financial services use case.
 | Soham | [Responsibilities] |
 
 ## Business Problem
-Describe the financial services problem your project addresses.
+A wealth-management firm's data is spread across separate customer, account, advisor, product, and trade files, so it can't easily act on it. Our goal is to **transform this raw data into business-ready, tested tables that give stakeholders actionable insights.**
 
-- **Problem:** [What challenge are you solving?]
-- **Audience:** [Who would use the data or insights?]
-- **Goal:** [What will the pipeline enable?]
+- **Problem:** Raw source data is fragmented and messy (duplicates, inconsistent text, missing values), so it can't be trusted for decisions. 
+- **Audience:** Head of wealth management, branch managers, product marketing, and compliance. 
+- **Goal:** Deliver clean, reporting-ready data and a dashboard that gives clarity on customer investments, wealth managers, product qualifications, and risk alignment. 
 
 ## Data Sources
 | Source | Description | Format | Access Method |
@@ -35,9 +34,9 @@ Describe the financial services problem your project addresses.
 | customer_products.csv | Products each customer already holds | CSV | download |
 
 Include:
-- Dataset links and usage restrictions
-- Date range and approximate data volume
-- Important fields and known limitations
+- The data 
+- Trades span 2012-05-01 to 2026-10-31. There are about 20,800 rows across all ten files
+- customer_id, account_id, advisor_id, security_id, and product_id link the files. The key measures are gross_amount and fess on trades. risk_tolerance (
 
 ## Technology Stack
 | Component | Tool | Purpose |
