@@ -2,7 +2,7 @@
 
 ## Overview
 This project builds a data pipeline to ingest, clean, transform, and analyze
-[financial dataset]. Developed for `I320D Data Engineering`, it demonstrates core data
+data from financial services. Developed for `I320D Data Engineering`, it demonstrates core data
 engineering concepts through a financial services use case.
 
 ## Team Members
@@ -11,6 +11,7 @@ engineering concepts through a financial services use case.
 | Mark | [Responsibilities] |
 | Dylan | [Responsibilities] |
 | Kenny | [Responsibilities] |
+| Soham | [Responsibilities] |
 
 ## Business Problem
 Describe the financial services problem your project addresses.
@@ -22,7 +23,16 @@ Describe the financial services problem your project addresses.
 ## Data Sources
 | Source | Description | Format | Access Method |
 |--------|-------------|--------|---------------|
-| [Source] | [Data provided] | [CSV/JSON/etc.] | [API/download/etc.] |
+| customer.csv | Investing customers | CSV | download |
+| accounts.csv | Investment accounts owned by customers | CSV | download |
+| account_types.csv | Account types with tax treatment and minimum opening balance | CSV | download |
+| investment_transactions.csv | Every trade and dividend reinvestment, with quantity, price, amount, and fees | CSV | download |
+| securities.csv | Funds and ETFs that can be traded | CSV | download |
+| asset_classes.csv | Asset classes with a numeric risk level (1-5) | CSV | download |
+| advisors.csv | Wealth managers with certification and branch | CSV | download |
+| branches.csv | Branch offices | CSV | download |
+| products.csv | Additional products and their qualification threshholds | CSV | download |
+| customer_products.csv | Products each customer already holds | CSV | download |
 
 Include:
 - Dataset links and usage restrictions
