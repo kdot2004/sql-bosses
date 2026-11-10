@@ -1,0 +1,1384 @@
+"account_key","open_date","account_status","account_type_name","tax_treatment","min_opening_balance"
+ACC-000001,2013-01-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000002,2013-01-03,open,Roth IRA,Tax-Free,250
+ACC-000003,2017-02-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-000004,2018-01-25,open,Revocable Trust,Taxable,25000
+ACC-000005,2017-11-13,open,Roth IRA,Tax-Free,250
+ACC-000006,2016-08-17,open,Rollover IRA,Tax-Deferred,1000
+ACC-000007,2022-10-22,open,Individual Brokerage,Taxable,500
+ACC-000008,2023-02-27,open,Revocable Trust,Taxable,25000
+ACC-000009,2023-06-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-000010,2014-01-31,open,"529 Education Savings",Tax-Free,100
+ACC-000011,2023-01-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000012,2018-10-22,open,"529 Education Savings",Tax-Free,100
+ACC-000013,2019-02-17,open,Revocable Trust,Taxable,25000
+ACC-000014,2025-07-21,open,Revocable Trust,Taxable,25000
+ACC-000015,2023-02-17,open,"529 Education Savings",Tax-Free,100
+ACC-000016,2024-11-14,open,Individual Brokerage,Taxable,500
+ACC-000017,2026-01-20,open,Traditional IRA,Tax-Deferred,250
+ACC-000018,2013-02-16,open ,Rollover IRA,Tax-Deferred,1000
+ACC-000019,2013-02-28,open,Individual Brokerage,Taxable,500
+ACC-000020,2018-05-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000021,2019-07-28,open,Rollover IRA,Tax-Deferred,1000
+ACC-000022,2021-03-25,open,Revocable Trust,Taxable,25000
+ACC-000023,2021-02-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000024,2022-09-14,open,Individual Brokerage,Taxable,500
+ACC-000025,2022-08-15,open,Roth IRA,Tax-Free,250
+ACC-000026,2018-08-26,open,Individual Brokerage,Taxable,500
+ACC-000027,2018-04-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000028,2019-03-22,open,Revocable Trust,Taxable,25000
+ACC-000029,2020-07-03,open,Roth IRA,Tax-Free,250
+ACC-000030,2014-02-26,open,"529 Education Savings",Tax-Free,100
+ACC-000031,2015-03-16,open,Roth IRA,Tax-Free,250
+ACC-000032,2015-12-26,open,"529 Education Savings",Tax-Free,100
+ACC-000033,2015-07-24,open,Individual Brokerage,Taxable,500
+ACC-000034,2025-03-23,open,Revocable Trust,Taxable,25000
+ACC-000035,2024-08-29,open,Traditional IRA,Tax-Deferred,250
+ACC-000036,2012-05-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-000037,2022-12-25,open,"529 Education Savings",Tax-Free,100
+ACC-000038,2018-07-14,open,Revocable Trust,Taxable,25000
+ACC-000039,2024-07-25,open,"529 Education Savings",Tax-Free,100
+ACC-000040,2020-05-05,open,"529 Education Savings",Tax-Free,100
+ACC-000041,2023-05-10,open,Revocable Trust,Taxable,25000
+ACC-000042,2020-12-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000043,2024-03-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000044,2024-06-08,open,"529 Education Savings",Tax-Free,100
+ACC-000045,2020-03-06,open,Revocable Trust,Taxable,25000
+ACC-000046,2020-09-27,open,"529 Education Savings",Tax-Free,100
+ACC-000047,2020-07-07,open,Individual Brokerage,Taxable,500
+ACC-000048,2012-05-15,open,"529 Education Savings",Tax-Free,100
+ACC-000049,2015-02-20,open,"529 Education Savings",Tax-Free,100
+ACC-000050,2015-07-30,open,Revocable Trust,Taxable,25000
+ACC-000051,2018-12-17,open,Revocable Trust,Taxable,25000
+ACC-000052,2017-06-02,open,"529 Education Savings",Tax-Free,100
+ACC-000053,2017-06-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000054,2014-08-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-000055,2015-04-10,open,Individual Brokerage,Taxable,500
+ACC-000056,2014-03-03,open,"529 Education Savings",Tax-Free,100
+ACC-000057,2023-06-04,open,"529 Education Savings",Tax-Free,100
+ACC-000058,2020-01-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000059,2020-01-17,open,Roth IRA,Tax-Free,250
+ACC-000060,2015-04-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000061,2022-10-28,open,"529 Education Savings",Tax-Free,100
+ACC-000062,2021-03-23,open,Rollover IRA,Tax-Deferred,1000
+ACC-000063,2023-11-22,open,"529 Education Savings",Tax-Free,100
+ACC-000064,2026-08-26,open,"529 Education Savings",Tax-Free,100
+ACC-000065,2026-09-16,open,Individual Brokerage,Taxable,500
+ACC-000066,2026-07-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000067,2013-08-24,open,"529 Education Savings",Tax-Free,100
+ACC-000068,2024-01-15,open,Revocable Trust,Taxable,25000
+ACC-000069,2020-04-08,open,Revocable Trust,Taxable,25000
+ACC-000070,2016-04-22,open,"529 Education Savings",Tax-Free,100
+ACC-000071,2023-11-21,open,Individual Brokerage,Taxable,500
+ACC-000072,2020-09-16,open,Roth IRA,Tax-Free,250
+ACC-000073,2021-02-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000074,2020-03-02,open,Individual Brokerage,Taxable,500
+ACC-000075,2024-04-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000076,2023-10-13,open,Individual Brokerage,Taxable,500
+ACC-000077,2026-08-03,open,Revocable Trust,Taxable,25000
+ACC-000078,2026-08-04,open,"529 Education Savings",Tax-Free,100
+ACC-000079,2015-07-24,open,Roth IRA,Tax-Free,250
+ACC-000080,2015-10-10,closed,Revocable Trust,Taxable,25000
+ACC-000081,2014-09-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000082,2018-03-29,open,Individual Brokerage,Taxable,500
+ACC-000083,2018-10-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000084,2025-02-11,open,Roth IRA,Tax-Free,250
+ACC-000085,2015-07-13,closed,"529 Education Savings",Tax-Free,100
+ACC-000086,2023-01-16,open,Revocable Trust,Taxable,25000
+ACC-000087,2023-09-29,open,Roth IRA,Tax-Free,250
+ACC-000088,2023-09-22,open,Individual Brokerage,Taxable,500
+ACC-000089,2014-10-25,open,Individual Brokerage,Taxable,500
+ACC-000090,2018-12-07,open,Roth IRA,Tax-Free,250
+ACC-000091,2021-05-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000092,2021-09-19,open,Revocable Trust,Taxable,25000
+ACC-000093,2020-02-05,open,Roth IRA,Tax-Free,250
+ACC-000094,2018-10-27,open,Revocable Trust,Taxable,25000
+ACC-000095,2025-08-10,open,Roth IRA,Tax-Free,250
+ACC-000096,2014-04-18,open,Revocable Trust,Taxable,25000
+ACC-000097,2013-08-30,open,Rollover IRA,Tax-Deferred,1000
+ACC-000098,2013-06-14,open,Revocable Trust,Taxable,25000
+ACC-000099,2013-10-16,open,Individual Brokerage,Taxable,500
+ACC-000100,2017-05-20,open,Individual Brokerage,Taxable,500
+ACC-000101,2016-06-10,open,Roth IRA,Tax-Free,250
+ACC-000102,2020-10-27,open,Individual Brokerage,Taxable,500
+ACC-000103,2016-10-04,open,Roth IRA,Tax-Free,250
+ACC-000104,2016-08-12,open,Individual Brokerage,Taxable,500
+ACC-000105,2017-05-11,restricted,Revocable Trust,Taxable,25000
+ACC-000106,2014-02-23,open,Individual Brokerage,Taxable,500
+ACC-000107,2013-10-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-000108,2014-07-13,open,Roth IRA,Tax-Free,250
+ACC-000109,2016-12-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000110,2017-03-31,open,Traditional IRA,Tax-Deferred,250
+ACC-000111,2018-11-12,open,Roth IRA,Tax-Free,250
+ACC-000112,2013-01-04,open,Roth IRA,Tax-Free,250
+ACC-000113,2012-12-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-000114,2024-01-13,open,"529 Education Savings",Tax-Free,100
+ACC-000115,2024-03-19,open,Individual Brokerage,Taxable,500
+ACC-000116,2023-01-17,open,Individual Brokerage,Taxable,500
+ACC-000117,2020-08-19,open,"529 Education Savings",Tax-Free,100
+ACC-000118,2017-12-10,open,Revocable Trust,Taxable,25000
+ACC-000119,2017-03-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000120,2019-06-01,open,Individual Brokerage,Taxable,500
+ACC-000121,2019-04-16,open,Roth IRA,Tax-Free,250
+ACC-000122,2023-07-29,open,Individual Brokerage,Taxable,500
+ACC-000123,2015-06-17,open,Individual Brokerage,Taxable,500
+ACC-000124,2020-05-18,open,Individual Brokerage,Taxable,500
+ACC-000125,2021-06-02,open,"529 Education Savings",Tax-Free,100
+ACC-000126,2021-02-18,open,Revocable Trust,Taxable,25000
+ACC-000127,2016-09-02,open,Roth IRA,Tax-Free,250
+ACC-000128,2024-09-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000129,2025-02-13,open,Roth IRA,Tax-Free,250
+ACC-000130,2025-08-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000131,2016-11-04,open,Revocable Trust,Taxable,25000
+ACC-000132,2024-12-02,open,Individual Brokerage,Taxable,500
+ACC-000133,2017-09-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000134,2023-08-28,open,Traditional IRA,Tax-Deferred,250
+ACC-000135,2020-07-22,open,Roth IRA,Tax-Free,250
+ACC-000136,2019-04-16,open,Individual Brokerage,Taxable,500
+ACC-000137,2016-05-24,open,Revocable Trust,Taxable,25000
+ACC-000138,2018-01-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-000139,2016-07-14,open,Rollover IRA,Tax-Deferred,1000
+ACC-000140,2022-08-27,open,Individual Brokerage,Taxable,500
+ACC-000141,2021-11-02,open,"529 Education Savings",Tax-Free,100
+ACC-000142,2022-03-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000143,2014-03-17,open,Individual Brokerage,Taxable,500
+ACC-000144,2014-11-24,open,Roth IRA,Tax-Free,250
+ACC-000145,2024-12-17,open,Roth IRA,Tax-Free,250
+ACC-000146,2024-12-29,open,Individual Brokerage,Taxable,500
+ACC-000147,2016-06-06,open,"529 Education Savings",Tax-Free,100
+ACC-000148,2022-07-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000149,2013-12-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000150,2026-02-18,open,Rollover IRA,Tax-Deferred,1000
+ACC-000151,2022-01-05,open,Individual Brokerage,Taxable,500
+ACC-000152,2023-02-16,open,Roth IRA,Tax-Free,250
+ACC-000153,2022-11-24,open,Roth IRA,Tax-Free,250
+ACC-000154,2022-12-11,open,Revocable Trust,Taxable,25000
+ACC-000155,2022-04-22,open,"529 Education Savings",Tax-Free,100
+ACC-000156,2019-06-30,open,Traditional IRA,Tax-Deferred,250
+ACC-000157,2021-09-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000158,2021-08-01,open,Individual Brokerage,Taxable,500
+ACC-000159,2020-10-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000160,2017-09-29,open,Revocable Trust,Taxable,25000
+ACC-000161,2020-01-29,open,Roth IRA,Tax-Free,250
+ACC-000162,2021-08-23,open,Individual Brokerage,Taxable,500
+ACC-000163,2019-10-06,open,Individual Brokerage,Taxable,500
+ACC-000164,2022-04-20,open,Individual Brokerage,Taxable,500
+ACC-000165,2017-01-07,open,Rollover IRA,Tax-Deferred,1000
+ACC-000166,2016-10-30,open,Roth IRA,Tax-Free,250
+ACC-000167,2016-11-02,open,Individual Brokerage,Taxable,500
+ACC-000168,2016-01-31,open,Revocable Trust,Taxable,25000
+ACC-000169,2015-06-03,open,"529 Education Savings",Tax-Free,100
+ACC-000170,2023-10-13,open,Revocable Trust,Taxable,25000
+ACC-000171,2016-11-12,open,Revocable Trust,Taxable,25000
+ACC-000172,2016-12-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000173,2014-11-17,open,Revocable Trust,Taxable,25000
+ACC-000174,2013-12-27,open,Revocable Trust,Taxable,25000
+ACC-000175,2014-09-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000176,2020-10-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-000177,2021-04-21,open,Revocable Trust,Taxable,25000
+ACC-000178,2020-06-22,open,Individual Brokerage,Taxable,500
+ACC-000179,2020-06-22,open,Revocable Trust,Taxable,25000
+ACC-000180,2017-10-16,open,Individual Brokerage,Taxable,500
+ACC-000181,2021-06-12,open,Roth IRA,Tax-Free,250
+ACC-000182,2022-05-13,open,Revocable Trust,Taxable,25000
+ACC-000183,2023-02-23,open,Roth IRA,Tax-Free,250
+ACC-000184,2024-05-08,open,Roth IRA,Tax-Free,250
+ACC-000185,2015-04-06,open,Individual Brokerage,Taxable,500
+ACC-000186,2015-06-13,open,Revocable Trust,Taxable,25000
+ACC-000187,2016-01-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-000188,2024-12-10,open,Individual Brokerage,Taxable,500
+ACC-000189,2025-09-08,open,"529 Education Savings",Tax-Free,100
+ACC-000190,2018-05-10,open,Revocable Trust,Taxable,25000
+ACC-000191,2018-11-18,open,"529 Education Savings",Tax-Free,100
+ACC-000192,2018-02-13,open,Revocable Trust,Taxable,25000
+ACC-000193,2017-04-02,open,Rollover IRA,Tax-Deferred,1000
+ACC-000194,2019-09-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-000195,2013-04-06,open,Roth IRA,Tax-Free,250
+ACC-000196,2016-05-29,open,Individual Brokerage,Taxable,500
+ACC-000197,2016-07-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000198,2024-11-30,open,Traditional IRA,Tax-Deferred,250
+ACC-000199,2024-12-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-000200,2024-09-14,open,Rollover IRA,Tax-Deferred,1000
+ACC-000201,2020-02-21,open,Roth IRA,Tax-Free,250
+ACC-000202,2019-12-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-000203,2018-12-28,open,Revocable Trust,Taxable,25000
+ACC-000204,2021-03-17,open,Roth IRA,Tax-Free,250
+ACC-000205,2020-10-19,open,Traditional IRA,Tax-Deferred,250
+ACC-000206,2023-05-24,open,Individual Brokerage,Taxable,500
+ACC-000207,2021-02-15,closed,Individual Brokerage,Taxable,500
+ACC-000208,2022-03-24,open,"529 Education Savings",Tax-Free,100
+ACC-000209,2020-03-12,open,Revocable Trust,Taxable,25000
+ACC-000210,2020-11-26,open,"529 Education Savings",Tax-Free,100
+ACC-000211,2018-11-19,open,Revocable Trust,Taxable,25000
+ACC-000212,2025-10-27,open,Individual Brokerage,Taxable,500
+ACC-000213,2021-04-05,open,"529 Education Savings",Tax-Free,100
+ACC-000214,2020-07-13,open,Revocable Trust,Taxable,25000
+ACC-000215,2020-08-19,open,"529 Education Savings",Tax-Free,100
+ACC-000216,2026-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-000217,2026-09-16,open,Individual Brokerage,Taxable,500
+ACC-000218,2017-02-24,open,Individual Brokerage,Taxable,500
+ACC-000219,2017-08-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000220,2018-01-08,open,Revocable Trust,Taxable,25000
+ACC-000221,2014-10-04,open,Revocable Trust,Taxable,25000
+ACC-000222,2020-03-17,open,Rollover IRA,Tax-Deferred,1000
+ACC-000223,2018-01-10,open,Roth IRA,Tax-Free,250
+ACC-000224,2018-04-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000225,2018-09-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-000226,2015-06-03,open,Revocable Trust,Taxable,25000
+ACC-000227,2013-06-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000228,2013-01-10,open,Revocable Trust,Taxable,25000
+ACC-000229,2019-01-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-000230,2018-11-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000231,2019-10-19,open,Individual Brokerage,Taxable,500
+ACC-000232,2015-02-09,open,Roth IRA,Tax-Free,250
+ACC-000233,2015-05-27,open,Revocable Trust,Taxable,25000
+ACC-000234,2025-10-15,open,Roth IRA,Tax-Free,250
+ACC-000235,2025-07-21,open,Revocable Trust,Taxable,25000
+ACC-000236,2018-03-21,open,"529 Education Savings",Tax-Free,100
+ACC-000237,2021-09-07,open,Individual Brokerage,Taxable,500
+ACC-000238,2021-10-08,open,Revocable Trust,Taxable,25000
+ACC-000239,2021-02-12,open,"529 Education Savings",Tax-Free,100
+ACC-000240,2016-11-08,open,Individual Brokerage,Taxable,500
+ACC-000241,2025-11-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000242,2026-05-17,open,Traditional IRA,Tax-Deferred,250
+ACC-000243,2026-09-16,open,Roth IRA,Tax-Free,250
+ACC-000244,2013-10-27,open,Roth IRA,Tax-Free,250
+ACC-000245,2013-10-06,open,Individual Brokerage,Taxable,500
+ACC-000246,2013-02-06,open,"529 Education Savings",Tax-Free,100
+ACC-000247,2015-05-14,open,Individual Brokerage,Taxable,500
+ACC-000248,2016-06-29,open,Individual Brokerage,Taxable,500
+ACC-000249,2022-07-27,open,Roth IRA,Tax-Free,250
+ACC-000250,2021-05-27,open,Individual Brokerage,Taxable,500
+ACC-000251,2021-12-25,open,Revocable Trust,Taxable,25000
+ACC-000252,2026-03-07,open,Rollover IRA,Tax-Deferred,1000
+ACC-000253,2018-04-02,open,Roth IRA,Tax-Free,250
+ACC-000254,2020-06-21,open,Roth IRA,Tax-Free,250
+ACC-000255,2025-11-23,open,Roth IRA,Tax-Free,250
+ACC-000256,2020-04-13,open,Revocable Trust,Taxable,25000
+ACC-000257,2022-08-01,open,Traditional IRA,Tax-Deferred,250
+ACC-000258,2022-10-17,open,Individual Brokerage,Taxable,500
+ACC-000259,2021-10-21,open,"529 Education Savings",Tax-Free,100
+ACC-000260,2016-04-27,open,Roth IRA,Tax-Free,250
+ACC-000261,2016-05-25,open,"529 Education Savings",Tax-Free,100
+ACC-000262,2024-07-17,open,Roth IRA,Tax-Free,250
+ACC-000263,2024-08-15,open,Revocable Trust,Taxable,25000
+ACC-000264,2017-01-10,open,Revocable Trust,Taxable,25000
+ACC-000265,2017-02-19,open,"529 Education Savings",Tax-Free,100
+ACC-000266,2019-11-17,open,Rollover IRA,Tax-Deferred,1000
+ACC-000267,2025-07-21,open,"529 Education Savings",Tax-Free,100
+ACC-000268,2025-08-25,open,Revocable Trust,Taxable,25000
+ACC-000269,2024-05-07,open,Roth IRA,Tax-Free,250
+ACC-000270,2016-06-22,open,"529 Education Savings",Tax-Free,100
+ACC-000271,2016-07-23,open,Revocable Trust,Taxable,25000
+ACC-000272,2014-03-24,open,"529 Education Savings",Tax-Free,100
+ACC-000273,2023-02-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000274,2023-12-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-000275,2022-04-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000276,2025-06-07,open,"529 Education Savings",Tax-Free,100
+ACC-000277,2025-11-07,open,Individual Brokerage,Taxable,500
+ACC-000278,2019-08-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000279,2019-03-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-000280,2018-10-02,restricted,Individual Brokerage,Taxable,500
+ACC-000281,2022-11-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000282,2023-01-04,open,Roth IRA,Tax-Free,250
+ACC-000283,2026-08-30,open,Traditional IRA,Tax-Deferred,250
+ACC-000284,2022-11-26,open,Revocable Trust,Taxable,25000
+ACC-000285,2025-11-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000286,2019-09-01,open,Individual Brokerage,Taxable,500
+ACC-000287,2026-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-000288,2025-08-23,open,Revocable Trust,Taxable,25000
+ACC-000289,2025-09-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-000290,2015-10-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-000291,2014-10-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000292,2017-02-02,open,Rollover IRA,Tax-Deferred,1000
+ACC-000293,2021-05-26,open,"529 Education Savings",Tax-Free,100
+ACC-000294,2014-11-15,open,"529 Education Savings",Tax-Free,100
+ACC-000295,2024-03-17,open,Individual Brokerage,Taxable,500
+ACC-000296,2012-05-16,open,"529 Education Savings",Tax-Free,100
+ACC-000297,2012-12-24,open,Roth IRA,Tax-Free,250
+ACC-000298,2016-05-27,open,Revocable Trust,Taxable,25000
+ACC-000299,2022-08-14,open,Roth IRA,Tax-Free,250
+ACC-000300,2015-02-07,open,Traditional IRA,Tax-Deferred,250
+ACC-000301,2015-07-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000302,2020-02-21,open,Revocable Trust,Taxable,25000
+ACC-000303,2019-12-04,open,Roth IRA,Tax-Free,250
+ACC-000304,2015-02-26,open,Revocable Trust,Taxable,25000
+ACC-000305,2019-06-18,open,Individual Brokerage,Taxable,500
+ACC-000306,2019-05-20,open,Revocable Trust,Taxable,25000
+ACC-000307,2025-10-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000308,2014-12-21,closed,Revocable Trust,Taxable,25000
+ACC-000309,2014-10-17,open,"529 Education Savings",Tax-Free,100
+ACC-000310,2014-04-10,open,Roth IRA,Tax-Free,250
+ACC-000311,2012-07-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000312,2012-03-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000313,2018-11-12,open,Individual Brokerage,Taxable,500
+ACC-000314,2018-11-10,open,Revocable Trust,Taxable,25000
+ACC-000315,2023-11-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-000316,2013-11-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000317,2013-12-19,open,"529 Education Savings",Tax-Free,100
+ACC-000318,2018-01-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-000319,2018-06-30,open,Revocable Trust,Taxable,25000
+ACC-000320,2024-02-10,open,Revocable Trust,Taxable,25000
+ACC-000321,2024-08-17,open,Roth IRA,Tax-Free,250
+ACC-000322,2021-04-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-000323,2022-05-09,open,"529 Education Savings",Tax-Free,100
+ACC-000324,2020-05-14,open,Revocable Trust,Taxable,25000
+ACC-000325,2014-12-29,open,Revocable Trust,Taxable,25000
+ACC-000326,2014-04-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-000327,2014-07-20,open,Roth IRA,Tax-Free,250
+ACC-000328,2022-05-28,open,"529 Education Savings",Tax-Free,100
+ACC-000329,2026-04-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000330,2021-01-24,open,"529 Education Savings",Tax-Free,100
+ACC-000331,2021-03-23,open,Revocable Trust,Taxable,25000
+ACC-000332,2014-01-15,open,Roth IRA,Tax-Free,250
+ACC-000333,2026-07-19,open,Roth IRA,Tax-Free,250
+ACC-000334,2023-07-31,open,"529 Education Savings",Tax-Free,100
+ACC-000335,2023-12-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000336,2023-03-22,open,Traditional IRA,Tax-Deferred,250
+ACC-000337,2023-03-30,open,"529 Education Savings",Tax-Free,100
+ACC-000338,2025-03-14,open,Roth IRA,Tax-Free,250
+ACC-000339,2020-12-24,open,Roth IRA,Tax-Free,250
+ACC-000340,2013-06-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000341,2013-04-16,open,Revocable Trust,Taxable,25000
+ACC-000342,2013-09-16,closed,Individual Brokerage,Taxable,500
+ACC-000343,2020-01-12,open,Roth IRA,Tax-Free,250
+ACC-000344,2017-02-21,open,Revocable Trust,Taxable,25000
+ACC-000345,2017-11-30,open,"529 Education Savings",Tax-Free,100
+ACC-000346,2024-11-14,open,Individual Brokerage,Taxable,500
+ACC-000347,2022-04-29,open,Revocable Trust,Taxable,25000
+ACC-000348,2026-01-27,open,"529 Education Savings",Tax-Free,100
+ACC-000349,2014-05-19,open,Revocable Trust,Taxable,25000
+ACC-000350,2019-12-30,open,Revocable Trust,Taxable,25000
+ACC-000351,2024-05-16,open,"529 Education Savings",Tax-Free,100
+ACC-000352,2024-03-26,open,Revocable Trust,Taxable,25000
+ACC-000353,2021-09-24,open,"529 Education Savings",Tax-Free,100
+ACC-000354,2018-09-07,open,Individual Brokerage,Taxable,500
+ACC-000355,2016-05-05,open,Roth IRA,Tax-Free,250
+ACC-000356,2015-10-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000357,2018-12-02,open,Roth IRA,Tax-Free,250
+ACC-000358,2021-07-18,open,Roth IRA,Tax-Free,250
+ACC-000359,2023-07-17,open,Revocable Trust,Taxable,25000
+ACC-000360,2015-06-19,open,Revocable Trust,Taxable,25000
+ACC-000361,2023-04-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-000362,2023-11-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000363,2023-11-20,open,Revocable Trust,Taxable,25000
+ACC-000364,2015-09-02,open,"529 Education Savings",Tax-Free,100
+ACC-000365,2025-09-09,open,Individual Brokerage,Taxable,500
+ACC-000366,2024-12-02,open,Revocable Trust,Taxable,25000
+ACC-000367,2024-04-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000368,2025-01-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000369,2024-03-14,open,Revocable Trust,Taxable,25000
+ACC-000370,2019-07-21,open,Roth IRA,Tax-Free,250
+ACC-000371,2013-06-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000372,2014-04-04,open,"529 Education Savings",Tax-Free,100
+ACC-000373,2021-11-14,open,"529 Education Savings",Tax-Free,100
+ACC-000374,2018-05-12,open,Individual Brokerage,Taxable,500
+ACC-000375,2016-06-10,closed,"529 Education Savings",Tax-Free,100
+ACC-000376,2012-10-06,open,Roth IRA,Tax-Free,250
+ACC-000377,2013-07-10,open,Roth IRA,Tax-Free,250
+ACC-000378,2013-04-27,open,Rollover IRA,Tax-Deferred,1000
+ACC-000379,2014-07-14,open,Individual Brokerage,Taxable,500
+ACC-000380,2025-01-11,open,Roth IRA,Tax-Free,250
+ACC-000381,2025-03-28,open,Revocable Trust,Taxable,25000
+ACC-000382,2023-01-18,open,Roth IRA,Tax-Free,250
+ACC-000383,2015-08-19,closed,"529 Education Savings",Tax-Free,100
+ACC-000384,2014-07-21,open,Revocable Trust,Taxable,25000
+ACC-000385,2014-12-18,open,Individual Brokerage,Taxable,500
+ACC-000386,2024-09-30,open,Revocable Trust,Taxable,25000
+ACC-000387,2019-12-16,open,Roth IRA,Tax-Free,250
+ACC-000388,2020-02-20,open,Traditional IRA,Tax-Deferred,250
+ACC-000389,2018-09-30,open,Rollover IRA,Tax-Deferred,1000
+ACC-000390,2017-07-17,open,"529 Education Savings",Tax-Free,100
+ACC-000391,2025-11-25,open,Traditional IRA,Tax-Deferred,250
+ACC-000392,2016-03-25,open,"529 Education Savings",Tax-Free,100
+ACC-000393,2026-01-23,open,Rollover IRA,Tax-Deferred,1000
+ACC-000394,2024-05-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000395,2024-07-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000396,2016-11-27,open,"529 Education Savings",Tax-Free,100
+ACC-000397,2016-09-10,closed,Rollover IRA,Tax-Deferred,1000
+ACC-000398,2017-02-04,open,Roth IRA,Tax-Free,250
+ACC-000399,2026-09-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000400,2016-09-11,open,"529 Education Savings",Tax-Free,100
+ACC-000401,2026-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-000402,2017-04-30,open,Roth IRA,Tax-Free,250
+ACC-000403,2016-07-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-000404,2023-12-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000405,2014-09-10,open,Roth IRA,Tax-Free,250
+ACC-000406,2021-09-09,open,Roth IRA,Tax-Free,250
+ACC-000407,2016-05-26,open,"529 Education Savings",Tax-Free,100
+ACC-000408,2024-09-09,open,"529 Education Savings",Tax-Free,100
+ACC-000409,2023-06-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000410,2013-03-28,open,"529 Education Savings",Tax-Free,100
+ACC-000411,2022-01-07,open,Roth IRA,Tax-Free,250
+ACC-000412,2025-11-13,open,Revocable Trust,Taxable,25000
+ACC-000413,2020-08-19,open,Revocable Trust,Taxable,25000
+ACC-000414,2019-04-22,closed,Revocable Trust,Taxable,25000
+ACC-000415,2019-02-19,open,Individual Brokerage,Taxable,500
+ACC-000416,2024-09-14,open,Individual Brokerage,Taxable,500
+ACC-000417,2024-05-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000418,2015-07-22,open,Roth IRA,Tax-Free,250
+ACC-000419,2016-05-01,open,Roth IRA,Tax-Free,250
+ACC-000420,2016-07-15,open,Individual Brokerage,Taxable,500
+ACC-000421,2018-02-21,open,Individual Brokerage,Taxable,500
+ACC-000422,2021-02-05,open,Revocable Trust,Taxable,25000
+ACC-000423,2021-07-19,closed,Traditional IRA,Tax-Deferred,250
+ACC-000424,2019-08-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-000425,2013-10-30,open,Roth IRA,Tax-Free,250
+ACC-000426,2018-08-13,open,Revocable Trust,Taxable,25000
+ACC-000427,2018-06-07,open,Revocable Trust,Taxable,25000
+ACC-000428,2017-10-01,open,"529 Education Savings",Tax-Free,100
+ACC-000429,2016-12-29,open,Revocable Trust,Taxable,25000
+ACC-000430,2016-03-31,open,"529 Education Savings",Tax-Free,100
+ACC-000431,2013-01-30,open,Individual Brokerage,Taxable,500
+ACC-000432,2018-03-08,open,Revocable Trust,Taxable,25000
+ACC-000433,2018-04-30,open,Roth IRA,Tax-Free,250
+ACC-000434,2017-12-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000435,2013-06-02,open,"529 Education Savings",Tax-Free,100
+ACC-000436,2016-08-21,open,Individual Brokerage,Taxable,500
+ACC-000437,2017-09-29,open,Revocable Trust,Taxable,25000
+ACC-000438,2024-06-03,open,Revocable Trust,Taxable,25000
+ACC-000439,2024-10-06,open,"529 Education Savings",Tax-Free,100
+ACC-000440,2018-09-12,open,Revocable Trust,Taxable,25000
+ACC-000441,2018-03-24,open,"529 Education Savings",Tax-Free,100
+ACC-000442,2019-01-14,open,Roth IRA,Tax-Free,250
+ACC-000443,2019-01-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000444,2022-07-25,open,Individual Brokerage,Taxable,500
+ACC-000445,2022-06-29,open,"529 Education Savings",Tax-Free,100
+ACC-000446,2024-04-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-000447,2023-10-20,open,Revocable Trust,Taxable,25000
+ACC-000448,2024-07-03,open,Roth IRA,Tax-Free,250
+ACC-000449,2024-03-22,open,"529 Education Savings",Tax-Free,100
+ACC-000450,2020-12-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000451,2023-08-05,open,"529 Education Savings",Tax-Free,100
+ACC-000452,2023-08-22,open,Revocable Trust,Taxable,25000
+ACC-000453,2017-07-04,open,Individual Brokerage,Taxable,500
+ACC-000454,2026-09-16,open,Individual Brokerage,Taxable,500
+ACC-000455,2022-09-26,open,Roth IRA,Tax-Free,250
+ACC-000456,2021-10-27,open,"529 Education Savings",Tax-Free,100
+ACC-000457,2020-04-25,open,"529 Education Savings",Tax-Free,100
+ACC-000458,2022-10-08,open,Rollover IRA,Tax-Deferred,1000
+ACC-000459,2022-01-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000460,2022-01-09,open,"529 Education Savings",Tax-Free,100
+ACC-000461,2019-03-20,open,Roth IRA,Tax-Free,250
+ACC-000462,2024-03-11,open,Individual Brokerage,Taxable,500
+ACC-000463,2018-11-30,open,Revocable Trust,Taxable,25000
+ACC-000464,2023-02-19,open,"529 Education Savings",Tax-Free,100
+ACC-000465,2015-08-30,open,Traditional IRA,Tax-Deferred,250
+ACC-000466,2020-04-07,open,Revocable Trust,Taxable,25000
+ACC-000467,2018-12-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-000468,2017-04-15,open,"529 Education Savings",Tax-Free,100
+ACC-000469,2017-01-29,open,Revocable Trust,Taxable,25000
+ACC-000470,2024-02-26,open,Revocable Trust,Taxable,25000
+ACC-000471,2025-10-15,open,Revocable Trust,Taxable,25000
+ACC-000472,2023-12-20,open,Traditional IRA,Tax-Deferred,250
+ACC-000473,2023-05-11,open,Revocable Trust,Taxable,25000
+ACC-000474,2020-11-23,open,Traditional IRA,Tax-Deferred,250
+ACC-000475,2019-05-17,open,Individual Brokerage,Taxable,500
+ACC-000476,2019-01-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000477,2020-01-17,open,Rollover IRA,Tax-Deferred,1000
+ACC-000478,2025-03-20,closed,Roth IRA,Tax-Free,250
+ACC-000479,2025-06-15,open,Individual Brokerage,Taxable,500
+ACC-000480,2025-02-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000481,2021-04-14,open,Individual Brokerage,Taxable,500
+ACC-000482,2015-05-01,open,Roth IRA,Tax-Free,250
+ACC-000483,2024-11-08,open ,Rollover IRA,Tax-Deferred,1000
+ACC-000484,2012-12-20,open,Individual Brokerage,Taxable,500
+ACC-000485,2013-04-08,open,Roth IRA,Tax-Free,250
+ACC-000486,2015-01-20,open,Roth IRA,Tax-Free,250
+ACC-000487,2016-08-10,open,Revocable Trust,Taxable,25000
+ACC-000488,2016-05-04,open,Roth IRA,Tax-Free,250
+ACC-000489,2023-09-04,open,Revocable Trust,Taxable,25000
+ACC-000490,2016-06-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000491,2017-06-01,open,Traditional IRA,Tax-Deferred,250
+ACC-000492,2025-08-09,open,Individual Brokerage,Taxable,500
+ACC-000493,2024-12-05,open,Revocable Trust,Taxable,25000
+ACC-000494,2018-09-10,open,Roth IRA,Tax-Free,250
+ACC-000495,2018-10-30,open,Revocable Trust,Taxable,25000
+ACC-000496,2015-07-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000497,2015-03-09,open,Revocable Trust,Taxable,25000
+ACC-000498,2016-01-12,open,Roth IRA,Tax-Free,250
+ACC-000499,2026-02-11,open,Roth IRA,Tax-Free,250
+ACC-000500,2015-11-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-000501,2015-09-17,open,Roth IRA,Tax-Free,250
+ACC-000502,2016-01-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000503,2024-06-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000504,2025-01-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-000505,2022-07-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000506,2022-01-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000507,2022-02-17,restricted,Rollover IRA,Tax-Deferred,1000
+ACC-000508,2024-08-27,open,Roth IRA,Tax-Free,250
+ACC-000509,2025-10-30,open,"529 Education Savings",Tax-Free,100
+ACC-000510,2024-12-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-000511,2025-04-17,closed,Traditional IRA,Tax-Deferred,250
+ACC-000512,2017-04-28,open,"529 Education Savings",Tax-Free,100
+ACC-000513,2017-08-12,open,Rollover IRA,Tax-Deferred,1000
+ACC-000514,2025-06-26,open,Roth IRA,Tax-Free,250
+ACC-000515,2024-11-12,open,Rollover IRA,Tax-Deferred,1000
+ACC-000516,2024-07-08,open,Individual Brokerage,Taxable,500
+ACC-000517,2026-09-16,open,Revocable Trust,Taxable,25000
+ACC-000518,2015-05-07,open,Roth IRA,Tax-Free,250
+ACC-000519,2016-05-28,open,Rollover IRA,Tax-Deferred,1000
+ACC-000520,2016-02-16,open,"529 Education Savings",Tax-Free,100
+ACC-000521,2018-01-12,open,Roth IRA,Tax-Free,250
+ACC-000522,2022-11-11,open,"529 Education Savings",Tax-Free,100
+ACC-000523,2023-05-28,open,Individual Brokerage,Taxable,500
+ACC-000524,2025-02-18,open,"529 Education Savings",Tax-Free,100
+ACC-000525,2025-06-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000526,2015-12-14,open,"529 Education Savings",Tax-Free,100
+ACC-000527,2018-08-16,open,Revocable Trust,Taxable,25000
+ACC-000528,2017-10-14,open,Individual Brokerage,Taxable,500
+ACC-000529,2025-06-12,open,Traditional IRA,Tax-Deferred,250
+ACC-000530,2017-02-16,open,Revocable Trust,Taxable,25000
+ACC-000531,2020-11-10,open,Individual Brokerage,Taxable,500
+ACC-000532,2017-05-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000533,2017-07-18,open,Revocable Trust,Taxable,25000
+ACC-000534,2026-05-19,open,Roth IRA,Tax-Free,250
+ACC-000535,2022-11-18,open,Revocable Trust,Taxable,25000
+ACC-000536,2023-03-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000537,2017-10-19,open,"529 Education Savings",Tax-Free,100
+ACC-000538,2018-02-15,open,Roth IRA,Tax-Free,250
+ACC-000539,2018-01-03,open,Individual Brokerage,Taxable,500
+ACC-000540,2023-07-14,open,Revocable Trust,Taxable,25000
+ACC-000541,2023-12-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000542,2022-12-08,open,Roth IRA,Tax-Free,250
+ACC-000543,2023-04-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000544,2017-04-10,open,Individual Brokerage,Taxable,500
+ACC-000545,2014-04-03,open,Roth IRA,Tax-Free,250
+ACC-000546,2013-09-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000547,2020-12-17,open,Revocable Trust,Taxable,25000
+ACC-000548,2014-05-09,open,Revocable Trust,Taxable,25000
+ACC-000549,2015-09-27,open,Revocable Trust,Taxable,25000
+ACC-000550,2016-03-27,open,"529 Education Savings",Tax-Free,100
+ACC-000551,2014-02-18,restricted,Traditional IRA,Tax-Deferred,250
+ACC-000552,2013-03-20,open,Roth IRA,Tax-Free,250
+ACC-000553,2022-01-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-000554,2021-07-18,open,Roth IRA,Tax-Free,250
+ACC-000555,2022-07-21,open,"529 Education Savings",Tax-Free,100
+ACC-000556,2024-11-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000557,2025-06-07,open,"529 Education Savings",Tax-Free,100
+ACC-000558,2023-05-02,open,Rollover IRA,Tax-Deferred,1000
+ACC-000559,2022-10-28,open,Individual Brokerage,Taxable,500
+ACC-000560,2022-05-24,open,Revocable Trust,Taxable,25000
+ACC-000561,2023-01-24,open,Roth IRA,Tax-Free,250
+ACC-000562,2016-09-15,restricted,Revocable Trust,Taxable,25000
+ACC-000563,2017-06-17,open,"529 Education Savings",Tax-Free,100
+ACC-000564,2017-09-15,open,Rollover IRA,Tax-Deferred,1000
+ACC-000565,2026-05-01,open,Individual Brokerage,Taxable,500
+ACC-000566,2014-05-27,open,Revocable Trust,Taxable,25000
+ACC-000567,2022-04-23,open,"529 Education Savings",Tax-Free,100
+ACC-000568,2018-09-25,open,"529 Education Savings",Tax-Free,100
+ACC-000569,2017-11-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000570,2024-08-13,open,Individual Brokerage,Taxable,500
+ACC-000571,2024-10-12,open,Traditional IRA,Tax-Deferred,250
+ACC-000572,2017-03-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-000573,2017-06-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000574,2016-08-11,open,"529 Education Savings",Tax-Free,100
+ACC-000575,2023-02-04,open,"529 Education Savings",Tax-Free,100
+ACC-000576,2023-04-02,open,Roth IRA,Tax-Free,250
+ACC-000577,2022-11-06,open,Individual Brokerage,Taxable,500
+ACC-000578,2020-04-04,open,"529 Education Savings",Tax-Free,100
+ACC-000579,2020-10-06,open,Individual Brokerage,Taxable,500
+ACC-000580,2020-07-11,open,Roth IRA,Tax-Free,250
+ACC-000581,2025-05-24,open,Revocable Trust,Taxable,25000
+ACC-000582,2019-02-17,open,Individual Brokerage,Taxable,500
+ACC-000583,2019-08-13,closed,Traditional IRA,Tax-Deferred,250
+ACC-000584,2026-08-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000585,2013-02-27,open,"529 Education Savings",Tax-Free,100
+ACC-000586,2016-11-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000587,2016-04-23,open,Roth IRA,Tax-Free,250
+ACC-000588,2021-12-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-000589,2024-09-17,open,"529 Education Savings",Tax-Free,100
+ACC-000590,2021-09-15,open,"529 Education Savings",Tax-Free,100
+ACC-000591,2022-05-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-000592,2022-03-07,open,Individual Brokerage,Taxable,500
+ACC-000593,2016-08-30,open,"529 Education Savings",Tax-Free,100
+ACC-000594,2015-12-25,open,Revocable Trust,Taxable,25000
+ACC-000595,2024-07-25,open,"529 Education Savings",Tax-Free,100
+ACC-000596,2024-07-06,open,Traditional IRA,Tax-Deferred,250
+ACC-000597,2024-05-02,open,Roth IRA,Tax-Free,250
+ACC-000598,2015-12-16,open,Roth IRA,Tax-Free,250
+ACC-000599,2015-07-17,open,Traditional IRA,Tax-Deferred,250
+ACC-000600,2021-02-19,closed,Traditional IRA,Tax-Deferred,250
+ACC-000601,2022-04-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000602,2021-04-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000603,2022-02-22,open,Traditional IRA,Tax-Deferred,250
+ACC-000604,2021-10-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000605,2015-05-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-000606,2012-06-07,open,Roth IRA,Tax-Free,250
+ACC-000607,2014-09-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000608,2015-07-10,open,"529 Education Savings",Tax-Free,100
+ACC-000609,2016-01-22,open,Roth IRA,Tax-Free,250
+ACC-000610,2016-09-14,open,"529 Education Savings",Tax-Free,100
+ACC-000611,2026-01-09,open,Roth IRA,Tax-Free,250
+ACC-000612,2026-05-02,open,Individual Brokerage,Taxable,500
+ACC-000613,2016-09-29,open,Revocable Trust,Taxable,25000
+ACC-000614,2014-04-12,open,Individual Brokerage,Taxable,500
+ACC-000615,2016-07-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-000616,2016-06-11,open,Roth IRA,Tax-Free,250
+ACC-000617,2024-09-07,open,Individual Brokerage,Taxable,500
+ACC-000618,2015-07-08,open,"529 Education Savings",Tax-Free,100
+ACC-000619,2015-03-10,open,Roth IRA,Tax-Free,250
+ACC-000620,2014-11-29,open,Individual Brokerage,Taxable,500
+ACC-000621,2014-08-25,open,Traditional IRA,Tax-Deferred,250
+ACC-000622,2015-08-17,open,Revocable Trust,Taxable,25000
+ACC-000623,2014-10-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000624,2022-03-07,open,"529 Education Savings",Tax-Free,100
+ACC-000625,2017-03-14,open,Traditional IRA,Tax-Deferred,250
+ACC-000626,2021-08-10,open,Roth IRA,Tax-Free,250
+ACC-000627,2021-06-24,open,"529 Education Savings",Tax-Free,100
+ACC-000628,2012-08-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-000629,2013-02-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000630,2013-05-31,closed,Revocable Trust,Taxable,25000
+ACC-000631,2020-04-24,open,Individual Brokerage,Taxable,500
+ACC-000632,2020-02-02,open,"529 Education Savings",Tax-Free,100
+ACC-000633,2020-04-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000634,2015-10-01,open,Revocable Trust,Taxable,25000
+ACC-000635,2015-12-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000636,2015-03-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-000637,2015-02-03,open,Individual Brokerage,Taxable,500
+ACC-000638,2026-03-15,open,Individual Brokerage,Taxable,500
+ACC-000639,2026-09-16,closed,"529 Education Savings",Tax-Free,100
+ACC-000640,2026-01-19,open,Revocable Trust,Taxable,25000
+ACC-000641,2016-06-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000642,2016-08-18,open ,Individual Brokerage,Taxable,500
+ACC-000643,2021-11-01,open,Individual Brokerage,Taxable,500
+ACC-000644,2021-08-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-000645,2022-10-19,open,"529 Education Savings",Tax-Free,100
+ACC-000646,2014-10-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000647,2018-06-13,open,Individual Brokerage,Taxable,500
+ACC-000648,2016-02-25,open,Individual Brokerage,Taxable,500
+ACC-000649,2024-02-09,open,Revocable Trust,Taxable,25000
+ACC-000650,2017-01-15,open,Rollover IRA,Tax-Deferred,1000
+ACC-000651,2015-03-15,open,Individual Brokerage,Taxable,500
+ACC-000652,2015-10-14,open,Revocable Trust,Taxable,25000
+ACC-000653,2016-01-21,closed,Roth IRA,Tax-Free,250
+ACC-000654,2026-03-10,open,Traditional IRA,Tax-Deferred,250
+ACC-000655,2025-02-24,open,Individual Brokerage,Taxable,500
+ACC-000656,2013-05-07,open,Traditional IRA,Tax-Deferred,250
+ACC-000657,2024-08-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-000658,2023-09-12,open,Revocable Trust,Taxable,25000
+ACC-000659,2021-05-14,open,Traditional IRA,Tax-Deferred,250
+ACC-000660,2014-03-25,open,Traditional IRA,Tax-Deferred,250
+ACC-000661,2014-03-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000662,2024-03-03,open,"529 Education Savings",Tax-Free,100
+ACC-000663,2023-03-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000664,2016-12-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000665,2017-08-02,open,Revocable Trust,Taxable,25000
+ACC-000666,2016-07-26,open,"529 Education Savings",Tax-Free,100
+ACC-000667,2023-04-20,open,"529 Education Savings",Tax-Free,100
+ACC-000668,2022-12-25,open,Individual Brokerage,Taxable,500
+ACC-000669,2023-06-20,open,"529 Education Savings",Tax-Free,100
+ACC-000670,2021-07-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000671,2022-06-15,open,Revocable Trust,Taxable,25000
+ACC-000672,2022-08-26,open,Individual Brokerage,Taxable,500
+ACC-000673,2022-11-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000674,2022-11-20,open,Roth IRA,Tax-Free,250
+ACC-000675,2022-03-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000676,2016-10-03,open,"529 Education Savings",Tax-Free,100
+ACC-000677,2020-01-18,open,Rollover IRA,Tax-Deferred,1000
+ACC-000678,2020-08-31,open,"529 Education Savings",Tax-Free,100
+ACC-000679,2020-11-29,open,Individual Brokerage,Taxable,500
+ACC-000680,2021-12-16,open,Roth IRA,Tax-Free,250
+ACC-000681,2026-05-07,open,Roth IRA,Tax-Free,250
+ACC-000682,2026-04-12,open,"529 Education Savings",Tax-Free,100
+ACC-000683,2019-01-28,open,Roth IRA,Tax-Free,250
+ACC-000684,2018-12-16,open,"529 Education Savings",Tax-Free,100
+ACC-000685,2013-01-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000686,2013-06-01,open,"529 Education Savings",Tax-Free,100
+ACC-000687,2026-07-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000688,2026-07-22,open,Revocable Trust,Taxable,25000
+ACC-000689,2023-01-01,open,Revocable Trust,Taxable,25000
+ACC-000690,2024-01-06,open,Roth IRA,Tax-Free,250
+ACC-000691,2023-08-26,open,Traditional IRA,Tax-Deferred,250
+ACC-000692,2024-05-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000693,2023-07-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000694,2022-10-30,open,Traditional IRA,Tax-Deferred,250
+ACC-000695,2023-05-21,open,Revocable Trust,Taxable,25000
+ACC-000696,2023-02-20,closed,Roth IRA,Tax-Free,250
+ACC-000697,2023-07-08,open,Traditional IRA,Tax-Deferred,250
+ACC-000698,2015-12-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000699,2015-08-24,open,Revocable Trust,Taxable,25000
+ACC-000700,2022-06-29,open,"529 Education Savings",Tax-Free,100
+ACC-000701,2022-07-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000702,2023-06-13,open,Individual Brokerage,Taxable,500
+ACC-000703,2025-03-06,open,Individual Brokerage,Taxable,500
+ACC-000704,2024-03-16,open,"529 Education Savings",Tax-Free,100
+ACC-000705,2025-03-17,open,Revocable Trust,Taxable,25000
+ACC-000706,2021-02-09,open ,Traditional IRA,Tax-Deferred,250
+ACC-000707,2020-10-27,open,Individual Brokerage,Taxable,500
+ACC-000708,2020-03-12,open,Roth IRA,Tax-Free,250
+ACC-000709,2015-09-29,open,Roth IRA,Tax-Free,250
+ACC-000710,2015-05-24,open,Individual Brokerage,Taxable,500
+ACC-000711,2017-03-01,open,Roth IRA,Tax-Free,250
+ACC-000712,2016-08-29,open,Individual Brokerage,Taxable,500
+ACC-000713,2020-09-13,open,Traditional IRA,Tax-Deferred,250
+ACC-000714,2022-07-11,open,Revocable Trust,Taxable,25000
+ACC-000715,2025-05-19,open,"529 Education Savings",Tax-Free,100
+ACC-000716,2024-09-06,open,Roth IRA,Tax-Free,250
+ACC-000717,2015-08-05,open,Individual Brokerage,Taxable,500
+ACC-000718,2016-04-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000719,2026-09-16,open,Roth IRA,Tax-Free,250
+ACC-000720,2017-02-16,open,Revocable Trust,Taxable,25000
+ACC-000721,2019-06-18,closed,Traditional IRA,Tax-Deferred,250
+ACC-000722,2021-05-02,open,"529 Education Savings",Tax-Free,100
+ACC-000723,2022-01-30,open,"529 Education Savings",Tax-Free,100
+ACC-000724,2013-05-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000725,2023-07-16,open,Revocable Trust,Taxable,25000
+ACC-000726,2018-05-24,open,Individual Brokerage,Taxable,500
+ACC-000727,2023-12-20,open,Individual Brokerage,Taxable,500
+ACC-000728,2013-11-08,open,Revocable Trust,Taxable,25000
+ACC-000729,2020-02-23,open,"529 Education Savings",Tax-Free,100
+ACC-000730,2021-01-14,open,Roth IRA,Tax-Free,250
+ACC-000731,2023-10-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000732,2024-01-02,open,Individual Brokerage,Taxable,500
+ACC-000733,2016-04-13,open,Individual Brokerage,Taxable,500
+ACC-000734,2017-03-09,open,Roth IRA,Tax-Free,250
+ACC-000735,2013-07-24,open,Traditional IRA,Tax-Deferred,250
+ACC-000736,2020-08-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000737,2021-01-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000738,2020-09-25,open,Roth IRA,Tax-Free,250
+ACC-000739,2026-06-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000740,2025-07-19,open,Revocable Trust,Taxable,25000
+ACC-000741,2025-08-29,open,Individual Brokerage,Taxable,500
+ACC-000742,2026-02-24,closed,Revocable Trust,Taxable,25000
+ACC-000743,2026-08-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-000744,2013-10-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000745,2019-01-15,open,"529 Education Savings",Tax-Free,100
+ACC-000746,2015-04-18,open,Traditional IRA,Tax-Deferred,250
+ACC-000747,2019-06-14,open,Traditional IRA,Tax-Deferred,250
+ACC-000748,2019-08-15,open,Revocable Trust,Taxable,25000
+ACC-000749,2024-08-28,open,Rollover IRA,Tax-Deferred,1000
+ACC-000750,2025-03-26,open,Revocable Trust,Taxable,25000
+ACC-000751,2013-02-04,open,Roth IRA,Tax-Free,250
+ACC-000752,2023-01-30,open,Individual Brokerage,Taxable,500
+ACC-000753,2022-03-19,open,"529 Education Savings",Tax-Free,100
+ACC-000754,2019-10-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000755,2017-10-07,open,Rollover IRA,Tax-Deferred,1000
+ACC-000756,2022-07-25,open,Roth IRA,Tax-Free,250
+ACC-000757,2022-07-03,open,"529 Education Savings",Tax-Free,100
+ACC-000758,2017-03-21,open,Revocable Trust,Taxable,25000
+ACC-000759,2016-11-19,open,Roth IRA,Tax-Free,250
+ACC-000760,2025-12-14,open,Rollover IRA,Tax-Deferred,1000
+ACC-000761,2018-06-02,open,"529 Education Savings",Tax-Free,100
+ACC-000762,2014-02-19,open,"529 Education Savings",Tax-Free,100
+ACC-000763,2019-12-18,open,Roth IRA,Tax-Free,250
+ACC-000764,2019-09-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000765,2023-04-15,open,Rollover IRA,Tax-Deferred,1000
+ACC-000766,2022-10-01,open,Traditional IRA,Tax-Deferred,250
+ACC-000767,2023-06-25,open,Roth IRA,Tax-Free,250
+ACC-000768,2021-04-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-000769,2015-05-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000770,2015-06-21,open,Revocable Trust,Taxable,25000
+ACC-000771,2021-08-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000772,2022-02-25,open,Individual Brokerage,Taxable,500
+ACC-000773,2021-11-08,open,Revocable Trust,Taxable,25000
+ACC-000774,2018-09-01,open,Roth IRA,Tax-Free,250
+ACC-000775,2023-06-14,open,Revocable Trust,Taxable,25000
+ACC-000776,2023-04-30,open,Rollover IRA,Tax-Deferred,1000
+ACC-000777,2012-03-22,open,Revocable Trust,Taxable,25000
+ACC-000778,2012-02-15,open,"529 Education Savings",Tax-Free,100
+ACC-000779,2022-03-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-000780,2021-12-25,open,Revocable Trust,Taxable,25000
+ACC-000781,2025-12-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000782,2013-10-25,open,Traditional IRA,Tax-Deferred,250
+ACC-000783,2023-02-11,open,Roth IRA,Tax-Free,250
+ACC-000784,2018-01-18,open,Rollover IRA,Tax-Deferred,1000
+ACC-000785,2012-08-14,open,Traditional IRA,Tax-Deferred,250
+ACC-000786,2013-10-16,open,Individual Brokerage,Taxable,500
+ACC-000787,2012-06-17,open,"529 Education Savings",Tax-Free,100
+ACC-000788,2022-01-06,open,Traditional IRA,Tax-Deferred,250
+ACC-000789,2026-02-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000790,2019-04-10,open,Revocable Trust,Taxable,25000
+ACC-000791,2020-10-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000792,2020-09-17,open,"529 Education Savings",Tax-Free,100
+ACC-000793,2024-06-13,open,Roth IRA,Tax-Free,250
+ACC-000794,2024-11-18,open,Revocable Trust,Taxable,25000
+ACC-000795,2022-12-09,open,Revocable Trust,Taxable,25000
+ACC-000796,2021-06-06,open,Traditional IRA,Tax-Deferred,250
+ACC-000797,2021-06-13,open,Revocable Trust,Taxable,25000
+ACC-000798,2017-02-09,open,Roth IRA,Tax-Free,250
+ACC-000799,2017-04-15,open,Rollover IRA,Tax-Deferred,1000
+ACC-000800,2016-01-09,open,Revocable Trust,Taxable,25000
+ACC-000801,2022-06-14,open,Rollover IRA,Tax-Deferred,1000
+ACC-000802,2016-09-28,open,Traditional IRA,Tax-Deferred,250
+ACC-000803,2015-08-18,open,Roth IRA,Tax-Free,250
+ACC-000804,2022-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-000805,2022-12-07,open,Revocable Trust,Taxable,25000
+ACC-000806,2019-03-20,restricted,Rollover IRA,Tax-Deferred,1000
+ACC-000807,2019-05-07,open,"529 Education Savings",Tax-Free,100
+ACC-000808,2018-11-04,open,Revocable Trust,Taxable,25000
+ACC-000809,2014-07-23,open,Roth IRA,Tax-Free,250
+ACC-000810,2016-08-13,open,Roth IRA,Tax-Free,250
+ACC-000811,2021-04-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-000812,2020-05-12,open,Individual Brokerage,Taxable,500
+ACC-000813,2020-10-28,open,Roth IRA,Tax-Free,250
+ACC-000814,2017-09-30,open,"529 Education Savings",Tax-Free,100
+ACC-000815,2017-06-26,open,Roth IRA,Tax-Free,250
+ACC-000816,2017-03-24,open,Roth IRA,Tax-Free,250
+ACC-000817,2016-01-26,open,"529 Education Savings",Tax-Free,100
+ACC-000818,2018-12-13,open,Roth IRA,Tax-Free,250
+ACC-000819,2018-06-17,open,Individual Brokerage,Taxable,500
+ACC-000820,2019-01-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-000821,2025-01-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000822,2017-05-03,restricted,"529 Education Savings",Tax-Free,100
+ACC-000823,2016-02-05,open,Roth IRA,Tax-Free,250
+ACC-000824,2015-12-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-000825,2019-06-09,open,Individual Brokerage,Taxable,500
+ACC-000826,2019-07-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-000827,2024-11-16,open,Individual Brokerage,Taxable,500
+ACC-000828,2013-12-18,open,Individual Brokerage,Taxable,500
+ACC-000829,2017-07-26,open,Individual Brokerage,Taxable,500
+ACC-000830,2017-07-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-000831,2017-12-20,open,Roth IRA,Tax-Free,250
+ACC-000832,2018-11-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000833,2021-06-11,open,Individual Brokerage,Taxable,500
+ACC-000834,2020-11-09,open,"529 Education Savings",Tax-Free,100
+ACC-000835,2021-10-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-000836,2024-07-19,open,Roth IRA,Tax-Free,250
+ACC-000837,2020-01-12,closed,Individual Brokerage,Taxable,500
+ACC-000838,2020-01-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-000839,2018-10-30,open,"529 Education Savings",Tax-Free,100
+ACC-000840,2022-10-22,open,Traditional IRA,Tax-Deferred,250
+ACC-000841,2022-08-04,open,Revocable Trust,Taxable,25000
+ACC-000842,2026-01-25,open,"529 Education Savings",Tax-Free,100
+ACC-000843,2023-04-03,open,Roth IRA,Tax-Free,250
+ACC-000844,2017-01-21,open,"529 Education Savings",Tax-Free,100
+ACC-000845,2018-01-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000846,2017-10-03,closed,Individual Brokerage,Taxable,500
+ACC-000847,2026-09-03,open,"529 Education Savings",Tax-Free,100
+ACC-000848,2012-11-04,open,Traditional IRA,Tax-Deferred,250
+ACC-000849,2012-12-12,open,"529 Education Savings",Tax-Free,100
+ACC-000850,2020-09-18,open,"529 Education Savings",Tax-Free,100
+ACC-000851,2024-10-20,open,Individual Brokerage,Taxable,500
+ACC-000852,2024-12-24,open,Revocable Trust,Taxable,25000
+ACC-000853,2018-09-18,open,Individual Brokerage,Taxable,500
+ACC-000854,2014-10-27,open,Individual Brokerage,Taxable,500
+ACC-000855,2014-09-10,open,Traditional IRA,Tax-Deferred,250
+ACC-000856,2025-04-22,open,Roth IRA,Tax-Free,250
+ACC-000857,2024-10-19,open,Individual Brokerage,Taxable,500
+ACC-000858,2022-07-14,open ,Revocable Trust,Taxable,25000
+ACC-000859,2022-12-16,open,Revocable Trust,Taxable,25000
+ACC-000860,2022-12-23,open,Individual Brokerage,Taxable,500
+ACC-000861,2023-01-14,open,"529 Education Savings",Tax-Free,100
+ACC-000862,2024-02-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-000863,2022-12-05,open,"529 Education Savings",Tax-Free,100
+ACC-000864,2017-08-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-000865,2017-04-28,open,Roth IRA,Tax-Free,250
+ACC-000866,2025-12-06,open,Individual Brokerage,Taxable,500
+ACC-000867,2026-09-16,open,Roth IRA,Tax-Free,250
+ACC-000868,2026-03-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000869,2026-04-12,open,Roth IRA,Tax-Free,250
+ACC-000870,2025-08-19,open,Individual Brokerage,Taxable,500
+ACC-000871,2014-07-10,open,Revocable Trust,Taxable,25000
+ACC-000872,2020-02-20,open,Revocable Trust,Taxable,25000
+ACC-000873,2016-10-12,open,"529 Education Savings",Tax-Free,100
+ACC-000874,2015-01-05,open,Roth IRA,Tax-Free,250
+ACC-000875,2017-12-10,closed,Revocable Trust,Taxable,25000
+ACC-000876,2014-12-06,open,Revocable Trust,Taxable,25000
+ACC-000877,2015-02-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-000878,2017-02-11,open,Traditional IRA,Tax-Deferred,250
+ACC-000879,2018-03-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000880,2018-05-24,closed,Rollover IRA,Tax-Deferred,1000
+ACC-000881,2021-07-01,open,"529 Education Savings",Tax-Free,100
+ACC-000882,2012-06-24,open,Individual Brokerage,Taxable,500
+ACC-000883,2013-02-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000884,2018-04-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000885,2017-06-03,open,Individual Brokerage,Taxable,500
+ACC-000886,2025-09-28,open,Rollover IRA,Tax-Deferred,1000
+ACC-000887,2025-09-20,open,Roth IRA,Tax-Free,250
+ACC-000888,2026-09-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-000889,2026-09-16,open,Roth IRA,Tax-Free,250
+ACC-000890,2016-01-18,open,Individual Brokerage,Taxable,500
+ACC-000891,2015-08-02,open,Rollover IRA,Tax-Deferred,1000
+ACC-000892,2017-04-27,open,Individual Brokerage,Taxable,500
+ACC-000893,2018-06-25,open,Traditional IRA,Tax-Deferred,250
+ACC-000894,2026-03-29,open,Revocable Trust,Taxable,25000
+ACC-000895,2021-01-13,open,Revocable Trust,Taxable,25000
+ACC-000896,2021-07-14,open,Rollover IRA,Tax-Deferred,1000
+ACC-000897,2021-02-25,open,"529 Education Savings",Tax-Free,100
+ACC-000898,2014-03-31,open,"529 Education Savings",Tax-Free,100
+ACC-000899,2015-01-05,open,Traditional IRA,Tax-Deferred,250
+ACC-000900,2015-05-23,open,Roth IRA,Tax-Free,250
+ACC-000901,2025-08-15,open,Revocable Trust,Taxable,25000
+ACC-000902,2012-06-12,open,"529 Education Savings",Tax-Free,100
+ACC-000903,2020-05-02,open,Revocable Trust,Taxable,25000
+ACC-000904,2024-06-10,open,"529 Education Savings",Tax-Free,100
+ACC-000905,2023-07-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-000906,2023-11-04,open,Revocable Trust,Taxable,25000
+ACC-000907,2022-11-25,open,Individual Brokerage,Taxable,500
+ACC-000908,2013-03-28,open,Traditional IRA,Tax-Deferred,250
+ACC-000909,2015-11-02,open,"529 Education Savings",Tax-Free,100
+ACC-000910,2015-06-12,open,Traditional IRA,Tax-Deferred,250
+ACC-000911,2021-02-13,open,Revocable Trust,Taxable,25000
+ACC-000912,2022-01-30,open,Rollover IRA,Tax-Deferred,1000
+ACC-000913,2021-10-08,open,Individual Brokerage,Taxable,500
+ACC-000914,2020-03-01,open,Revocable Trust,Taxable,25000
+ACC-000915,2014-06-10,open,Traditional IRA,Tax-Deferred,250
+ACC-000916,2021-08-21,open,"529 Education Savings",Tax-Free,100
+ACC-000917,2020-09-04,open,"529 Education Savings",Tax-Free,100
+ACC-000918,2017-02-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-000919,2016-09-21,open,Traditional IRA,Tax-Deferred,250
+ACC-000920,2020-01-07,open,"529 Education Savings",Tax-Free,100
+ACC-000921,2025-09-06,open,Traditional IRA,Tax-Deferred,250
+ACC-000922,2019-05-28,open,Roth IRA,Tax-Free,250
+ACC-000923,2019-10-30,open,"529 Education Savings",Tax-Free,100
+ACC-000924,2021-12-06,open,Individual Brokerage,Taxable,500
+ACC-000925,2019-02-26,open,Revocable Trust,Taxable,25000
+ACC-000926,2016-09-13,open,Revocable Trust,Taxable,25000
+ACC-000927,2016-08-15,open,"529 Education Savings",Tax-Free,100
+ACC-000928,2016-11-21,open,Individual Brokerage,Taxable,500
+ACC-000929,2015-10-18,open,Rollover IRA,Tax-Deferred,1000
+ACC-000930,2021-04-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-000931,2023-12-10,open,Individual Brokerage,Taxable,500
+ACC-000932,2022-08-17,open,Roth IRA,Tax-Free,250
+ACC-000933,2022-02-13,open,Revocable Trust,Taxable,25000
+ACC-000934,2022-02-17,open,Rollover IRA,Tax-Deferred,1000
+ACC-000935,2017-09-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-000936,2016-10-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000937,2017-04-25,open,Individual Brokerage,Taxable,500
+ACC-000938,2018-01-06,open,Revocable Trust,Taxable,25000
+ACC-000939,2021-04-12,open,Individual Brokerage,Taxable,500
+ACC-000940,2020-05-10,open,"529 Education Savings",Tax-Free,100
+ACC-000941,2020-06-02,open,Rollover IRA,Tax-Deferred,1000
+ACC-000942,2015-06-24,open,Roth IRA,Tax-Free,250
+ACC-000943,2021-11-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000944,2015-11-07,open,Traditional IRA,Tax-Deferred,250
+ACC-000945,2013-12-02,open,"529 Education Savings",Tax-Free,100
+ACC-000946,2013-09-29,open,Revocable Trust,Taxable,25000
+ACC-000947,2017-01-24,restricted,Roth IRA,Tax-Free,250
+ACC-000948,2019-07-19,open,"529 Education Savings",Tax-Free,100
+ACC-000949,2021-08-14,open,Traditional IRA,Tax-Deferred,250
+ACC-000950,2014-05-13,open,Roth IRA,Tax-Free,250
+ACC-000951,2014-04-02,open,"529 Education Savings",Tax-Free,100
+ACC-000952,2025-07-04,open,Individual Brokerage,Taxable,500
+ACC-000953,2021-11-22,open,"529 Education Savings",Tax-Free,100
+ACC-000954,2013-10-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-000955,2013-11-05,open,Revocable Trust,Taxable,25000
+ACC-000956,2013-09-16,open,Roth IRA,Tax-Free,250
+ACC-000957,2021-10-19,open,Traditional IRA,Tax-Deferred,250
+ACC-000958,2023-02-11,open,"529 Education Savings",Tax-Free,100
+ACC-000959,2015-04-08,open,Individual Brokerage,Taxable,500
+ACC-000960,2014-07-05,open,Individual Brokerage,Taxable,500
+ACC-000961,2013-08-23,open,"529 Education Savings",Tax-Free,100
+ACC-000962,2014-12-05,open,Revocable Trust,Taxable,25000
+ACC-000963,2021-10-13,open,"529 Education Savings",Tax-Free,100
+ACC-000964,2021-04-28,open,Individual Brokerage,Taxable,500
+ACC-000965,2016-11-02,open,Roth IRA,Tax-Free,250
+ACC-000966,2015-12-24,closed,Individual Brokerage,Taxable,500
+ACC-000967,2024-04-13,open,Individual Brokerage,Taxable,500
+ACC-000968,2022-10-02,closed,Individual Brokerage,Taxable,500
+ACC-000969,2014-05-17,open,"529 Education Savings",Tax-Free,100
+ACC-000970,2025-02-06,open,Revocable Trust,Taxable,25000
+ACC-000971,2025-07-04,open,Roth IRA,Tax-Free,250
+ACC-000972,2024-04-09,open,Traditional IRA,Tax-Deferred,250
+ACC-000973,2023-08-20,open,Roth IRA,Tax-Free,250
+ACC-000974,2022-09-27,open,Rollover IRA,Tax-Deferred,1000
+ACC-000975,2023-01-17,open,"529 Education Savings",Tax-Free,100
+ACC-000976,2025-11-28,open,Traditional IRA,Tax-Deferred,250
+ACC-000977,2015-10-11,open,Roth IRA,Tax-Free,250
+ACC-000978,2022-06-02,open,Revocable Trust,Taxable,25000
+ACC-000979,2013-03-21,open,Traditional IRA,Tax-Deferred,250
+ACC-000980,2013-05-09,open,Revocable Trust,Taxable,25000
+ACC-000981,2016-04-01,open,Roth IRA,Tax-Free,250
+ACC-000982,2016-06-13,open,"529 Education Savings",Tax-Free,100
+ACC-000983,2022-01-17,open,Individual Brokerage,Taxable,500
+ACC-000984,2025-02-02,open,Traditional IRA,Tax-Deferred,250
+ACC-000985,2024-04-05,open,Roth IRA,Tax-Free,250
+ACC-000986,2021-07-09,open,Revocable Trust,Taxable,25000
+ACC-000987,2022-01-03,open,Traditional IRA,Tax-Deferred,250
+ACC-000988,2026-06-27,open,Traditional IRA,Tax-Deferred,250
+ACC-000989,2018-09-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-000990,2017-11-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-000991,2017-07-13,open,"529 Education Savings",Tax-Free,100
+ACC-000992,2018-06-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-000993,2019-11-13,open,Roth IRA,Tax-Free,250
+ACC-000994,2019-06-26,closed,Traditional IRA,Tax-Deferred,250
+ACC-000995,2023-04-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-000996,2016-07-16,open,Traditional IRA,Tax-Deferred,250
+ACC-000997,2014-11-21,open,Roth IRA,Tax-Free,250
+ACC-000998,2018-02-15,open,Individual Brokerage,Taxable,500
+ACC-000999,2020-07-21,open,Traditional IRA,Tax-Deferred,250
+ACC-001000,2022-05-03,open,"529 Education Savings",Tax-Free,100
+ACC-001001,2022-07-27,open,Traditional IRA,Tax-Deferred,250
+ACC-001002,2015-02-23,open,Roth IRA,Tax-Free,250
+ACC-001003,2020-11-10,open,Traditional IRA,Tax-Deferred,250
+ACC-001004,2026-06-20,open,Traditional IRA,Tax-Deferred,250
+ACC-001005,2016-07-07,open,Roth IRA,Tax-Free,250
+ACC-001006,2016-05-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001007,2025-10-08,open,Roth IRA,Tax-Free,250
+ACC-001008,2024-12-02,open,Traditional IRA,Tax-Deferred,250
+ACC-001009,2024-08-28,open,Revocable Trust,Taxable,25000
+ACC-001010,2018-12-19,open,Individual Brokerage,Taxable,500
+ACC-001011,2018-03-12,closed,Traditional IRA,Tax-Deferred,250
+ACC-001012,2018-02-04,open,Roth IRA,Tax-Free,250
+ACC-001013,2023-07-17,open,Roth IRA,Tax-Free,250
+ACC-001014,2024-05-13,open,Individual Brokerage,Taxable,500
+ACC-001015,2024-03-14,open,"529 Education Savings",Tax-Free,100
+ACC-001016,2014-02-03,open,"529 Education Savings",Tax-Free,100
+ACC-001017,2017-12-04,open,Traditional IRA,Tax-Deferred,250
+ACC-001018,2019-01-09,open,Roth IRA,Tax-Free,250
+ACC-001019,2019-02-06,open,Individual Brokerage,Taxable,500
+ACC-001020,2020-02-01,open,Roth IRA,Tax-Free,250
+ACC-001021,2014-04-04,open,Rollover IRA,Tax-Deferred,1000
+ACC-001022,2014-07-30,open,Roth IRA,Tax-Free,250
+ACC-001023,2017-07-31,open,Rollover IRA,Tax-Deferred,1000
+ACC-001024,2015-03-25,open,Roth IRA,Tax-Free,250
+ACC-001025,2015-12-26,open,Individual Brokerage,Taxable,500
+ACC-001026,2015-05-19,open,Revocable Trust,Taxable,25000
+ACC-001027,2024-06-24,open,Roth IRA,Tax-Free,250
+ACC-001028,2021-01-11,closed,Roth IRA,Tax-Free,250
+ACC-001029,2026-07-30,closed,"529 Education Savings",Tax-Free,100
+ACC-001030,2026-05-04,open,Individual Brokerage,Taxable,500
+ACC-001031,2026-06-29,open,Roth IRA,Tax-Free,250
+ACC-001032,2014-07-02,open,Traditional IRA,Tax-Deferred,250
+ACC-001033,2014-05-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-001034,2014-06-01,open,Revocable Trust,Taxable,25000
+ACC-001035,2015-06-09,open,"529 Education Savings",Tax-Free,100
+ACC-001036,2015-06-09,open,Revocable Trust,Taxable,25000
+ACC-001037,2024-02-26,open,Revocable Trust,Taxable,25000
+ACC-001038,2013-03-07,open,Roth IRA,Tax-Free,250
+ACC-001039,2012-01-17,open,"529 Education Savings",Tax-Free,100
+ACC-001040,2012-09-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001041,2018-11-24,open,Traditional IRA,Tax-Deferred,250
+ACC-001042,2020-05-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-001043,2024-08-07,open,Roth IRA,Tax-Free,250
+ACC-001044,2017-02-27,open,"529 Education Savings",Tax-Free,100
+ACC-001045,2019-11-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-001046,2019-09-23,open,Roth IRA,Tax-Free,250
+ACC-001047,2018-12-30,open,"529 Education Savings",Tax-Free,100
+ACC-001048,2019-06-06,open,Revocable Trust,Taxable,25000
+ACC-001049,2019-07-29,open,Roth IRA,Tax-Free,250
+ACC-001050,2012-09-22,open,"529 Education Savings",Tax-Free,100
+ACC-001051,2013-10-14,open,Revocable Trust,Taxable,25000
+ACC-001052,2014-09-14,open,Traditional IRA,Tax-Deferred,250
+ACC-001053,2025-06-01,restricted,Roth IRA,Tax-Free,250
+ACC-001054,2024-02-18,open,Revocable Trust,Taxable,25000
+ACC-001055,2015-09-27,open,Revocable Trust,Taxable,25000
+ACC-001056,2015-04-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-001057,2016-10-28,open,"529 Education Savings",Tax-Free,100
+ACC-001058,2016-10-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-001059,2017-05-10,open,Revocable Trust,Taxable,25000
+ACC-001060,2017-07-18,open,"529 Education Savings",Tax-Free,100
+ACC-001061,2024-10-20,open,Traditional IRA,Tax-Deferred,250
+ACC-001062,2024-09-22,open,Rollover IRA,Tax-Deferred,1000
+ACC-001063,2020-01-03,open,"529 Education Savings",Tax-Free,100
+ACC-001064,2019-11-02,open,Individual Brokerage,Taxable,500
+ACC-001065,2022-04-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-001066,2021-11-11,open,Individual Brokerage,Taxable,500
+ACC-001067,2022-08-08,open,"529 Education Savings",Tax-Free,100
+ACC-001068,2025-07-05,open,"529 Education Savings",Tax-Free,100
+ACC-001069,2019-01-18,open,Revocable Trust,Taxable,25000
+ACC-001070,2018-06-10,open,"529 Education Savings",Tax-Free,100
+ACC-001071,2017-03-02,open,Roth IRA,Tax-Free,250
+ACC-001072,2020-03-07,open,Roth IRA,Tax-Free,250
+ACC-001073,2020-06-23,open,Individual Brokerage,Taxable,500
+ACC-001074,2021-06-25,open,Individual Brokerage,Taxable,500
+ACC-001075,2021-04-13,open,Traditional IRA,Tax-Deferred,250
+ACC-001076,2021-04-22,open,Revocable Trust,Taxable,25000
+ACC-001077,2023-04-17,restricted,Rollover IRA,Tax-Deferred,1000
+ACC-001078,2017-02-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-001079,2017-01-13,open,Revocable Trust,Taxable,25000
+ACC-001080,2016-08-05,open,Roth IRA,Tax-Free,250
+ACC-001081,2020-05-16,open,Rollover IRA,Tax-Deferred,1000
+ACC-001082,2019-11-27,open,Revocable Trust,Taxable,25000
+ACC-001083,2023-03-11,open,Traditional IRA,Tax-Deferred,250
+ACC-001084,2022-04-27,open,Revocable Trust,Taxable,25000
+ACC-001085,2018-02-23,closed,Traditional IRA,Tax-Deferred,250
+ACC-001086,2015-04-02,open,Individual Brokerage,Taxable,500
+ACC-001087,2015-09-04,open,Revocable Trust,Taxable,25000
+ACC-001088,2019-09-19,open,Revocable Trust,Taxable,25000
+ACC-001089,2026-02-05,open,Roth IRA,Tax-Free,250
+ACC-001090,2020-04-17,closed,"529 Education Savings",Tax-Free,100
+ACC-001091,2014-06-13,open,Revocable Trust,Taxable,25000
+ACC-001092,2023-06-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001093,2019-03-08,open,Individual Brokerage,Taxable,500
+ACC-001094,2018-11-29,restricted,"529 Education Savings",Tax-Free,100
+ACC-001095,2022-07-28,open,Revocable Trust,Taxable,25000
+ACC-001096,2022-09-21,open,Roth IRA,Tax-Free,250
+ACC-001097,2022-05-18,open,Individual Brokerage,Taxable,500
+ACC-001098,2023-11-27,open,"529 Education Savings",Tax-Free,100
+ACC-001099,2023-04-27,open,Roth IRA,Tax-Free,250
+ACC-001100,2022-11-04,open,"529 Education Savings",Tax-Free,100
+ACC-001101,2016-08-10,open,Traditional IRA,Tax-Deferred,250
+ACC-001102,2020-05-19,open,Individual Brokerage,Taxable,500
+ACC-001103,2024-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-001104,2025-02-18,open,Revocable Trust,Taxable,25000
+ACC-001105,2020-11-09,open,Traditional IRA,Tax-Deferred,250
+ACC-001106,2022-10-01,open,Rollover IRA,Tax-Deferred,1000
+ACC-001107,2018-09-18,open,Individual Brokerage,Taxable,500
+ACC-001108,2019-05-18,open,"529 Education Savings",Tax-Free,100
+ACC-001109,2019-07-29,open,"529 Education Savings",Tax-Free,100
+ACC-001110,2026-07-27,open,Roth IRA,Tax-Free,250
+ACC-001111,2018-10-18,open,Roth IRA,Tax-Free,250
+ACC-001112,2019-06-01,closed,Rollover IRA,Tax-Deferred,1000
+ACC-001113,2023-09-12,open,Roth IRA,Tax-Free,250
+ACC-001114,2019-07-20,open,Revocable Trust,Taxable,25000
+ACC-001115,2018-10-22,open,Individual Brokerage,Taxable,500
+ACC-001116,2023-11-07,open,"529 Education Savings",Tax-Free,100
+ACC-001117,2019-11-04,open,Revocable Trust,Taxable,25000
+ACC-001118,2020-07-01,open,Traditional IRA,Tax-Deferred,250
+ACC-001119,2020-10-03,open,Roth IRA,Tax-Free,250
+ACC-001120,2022-10-06,open,Traditional IRA,Tax-Deferred,250
+ACC-001121,2016-04-14,open,Traditional IRA,Tax-Deferred,250
+ACC-001122,2020-07-19,open,Revocable Trust,Taxable,25000
+ACC-001123,2021-01-09,open,Roth IRA,Tax-Free,250
+ACC-001124,2019-06-14,open,"529 Education Savings",Tax-Free,100
+ACC-001125,2018-11-14,open,Roth IRA,Tax-Free,250
+ACC-001126,2021-04-11,open,Traditional IRA,Tax-Deferred,250
+ACC-001127,2020-11-12,open,Individual Brokerage,Taxable,500
+ACC-001128,2025-02-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-001129,2025-12-12,open,Roth IRA,Tax-Free,250
+ACC-001130,2024-12-24,open,Revocable Trust,Taxable,25000
+ACC-001131,2017-02-07,open,Rollover IRA,Tax-Deferred,1000
+ACC-001132,2019-05-13,open,Traditional IRA,Tax-Deferred,250
+ACC-001133,2019-05-15,open,Revocable Trust,Taxable,25000
+ACC-001134,2019-06-27,open,Rollover IRA,Tax-Deferred,1000
+ACC-001135,2015-02-24,open,Individual Brokerage,Taxable,500
+ACC-001136,2013-12-18,open,Traditional IRA,Tax-Deferred,250
+ACC-001137,2025-02-16,open,Revocable Trust,Taxable,25000
+ACC-001138,2025-04-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-001139,2016-03-23,open,Revocable Trust,Taxable,25000
+ACC-001140,2015-12-14,open,Roth IRA,Tax-Free,250
+ACC-001141,2024-06-18,open,Revocable Trust,Taxable,25000
+ACC-001142,2023-05-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-001143,2013-01-16,open,Individual Brokerage,Taxable,500
+ACC-001144,2012-05-09,open,Roth IRA,Tax-Free,250
+ACC-001145,2026-01-12,open,"529 Education Savings",Tax-Free,100
+ACC-001146,2025-09-07,open,Revocable Trust,Taxable,25000
+ACC-001147,2025-04-12,open,Roth IRA,Tax-Free,250
+ACC-001148,2025-05-21,open,Individual Brokerage,Taxable,500
+ACC-001149,2020-08-08,open,Individual Brokerage,Taxable,500
+ACC-001150,2019-01-09,open,Revocable Trust,Taxable,25000
+ACC-001151,2021-10-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-001152,2021-07-01,open,Roth IRA,Tax-Free,250
+ACC-001153,2015-10-13,open,Individual Brokerage,Taxable,500
+ACC-001154,2017-10-12,open,Revocable Trust,Taxable,25000
+ACC-001155,2017-10-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-001156,2017-12-19,open,Individual Brokerage,Taxable,500
+ACC-001157,2025-01-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-001158,2024-08-02,open,Individual Brokerage,Taxable,500
+ACC-001159,2026-06-18,closed,"529 Education Savings",Tax-Free,100
+ACC-001160,2014-04-19,open,Traditional IRA,Tax-Deferred,250
+ACC-001161,2017-08-03,open,Individual Brokerage,Taxable,500
+ACC-001162,2025-07-02,open,Roth IRA,Tax-Free,250
+ACC-001163,2013-12-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-001164,2013-06-25,open,Roth IRA,Tax-Free,250
+ACC-001165,2020-09-30,open,Revocable Trust,Taxable,25000
+ACC-001166,2026-01-09,closed,"529 Education Savings",Tax-Free,100
+ACC-001167,2017-01-29,open,Revocable Trust,Taxable,25000
+ACC-001168,2021-12-23,open,Roth IRA,Tax-Free,250
+ACC-001169,2022-09-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-001170,2021-10-07,open,Revocable Trust,Taxable,25000
+ACC-001171,2024-02-11,open,Revocable Trust,Taxable,25000
+ACC-001172,2018-12-02,open,"529 Education Savings",Tax-Free,100
+ACC-001173,2021-10-04,closed,Revocable Trust,Taxable,25000
+ACC-001174,2024-09-11,open,Individual Brokerage,Taxable,500
+ACC-001175,2023-12-27,closed,Revocable Trust,Taxable,25000
+ACC-001176,2017-08-14,open,Traditional IRA,Tax-Deferred,250
+ACC-001177,2017-10-23,open,Revocable Trust,Taxable,25000
+ACC-001178,2021-12-16,open,Revocable Trust,Taxable,25000
+ACC-001179,2017-09-22,open,Individual Brokerage,Taxable,500
+ACC-001180,2018-01-01,open,Traditional IRA,Tax-Deferred,250
+ACC-001181,2018-04-07,open,Revocable Trust,Taxable,25000
+ACC-001182,2018-09-27,open,"529 Education Savings",Tax-Free,100
+ACC-001183,2024-12-05,open,Individual Brokerage,Taxable,500
+ACC-001184,2024-11-02,open,Revocable Trust,Taxable,25000
+ACC-001185,2026-04-26,open,Individual Brokerage,Taxable,500
+ACC-001186,2014-03-11,open,Traditional IRA,Tax-Deferred,250
+ACC-001187,2022-10-23,open,Roth IRA,Tax-Free,250
+ACC-001188,2022-12-07,open,"529 Education Savings",Tax-Free,100
+ACC-001189,2024-07-31,open,"529 Education Savings",Tax-Free,100
+ACC-001190,2025-01-12,open,Individual Brokerage,Taxable,500
+ACC-001191,2016-06-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-001192,2014-12-14,open,Revocable Trust,Taxable,25000
+ACC-001193,2014-04-26,open,Rollover IRA,Tax-Deferred,1000
+ACC-001194,2020-03-09,open,"529 Education Savings",Tax-Free,100
+ACC-001195,2019-09-12,open,Individual Brokerage,Taxable,500
+ACC-001196,2018-01-31,open,Revocable Trust,Taxable,25000
+ACC-001197,2023-07-29,open,Individual Brokerage,Taxable,500
+ACC-001198,2023-01-28,open,Rollover IRA,Tax-Deferred,1000
+ACC-001199,2023-08-28,open,Roth IRA,Tax-Free,250
+ACC-001200,2013-11-24,open,Individual Brokerage,Taxable,500
+ACC-001201,2014-05-03,open,Individual Brokerage,Taxable,500
+ACC-001202,2013-09-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001203,2022-08-21,open,Traditional IRA,Tax-Deferred,250
+ACC-001204,2024-07-22,open,Individual Brokerage,Taxable,500
+ACC-001205,2023-06-12,open,Rollover IRA,Tax-Deferred,1000
+ACC-001206,2022-12-14,open,Roth IRA,Tax-Free,250
+ACC-001207,2022-12-13,open,"529 Education Savings",Tax-Free,100
+ACC-001208,2023-01-10,open,Roth IRA,Tax-Free,250
+ACC-001209,2021-12-16,open,Individual Brokerage,Taxable,500
+ACC-001210,2021-05-28,open,Roth IRA,Tax-Free,250
+ACC-001211,2020-09-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-001212,2017-07-25,open,Roth IRA,Tax-Free,250
+ACC-001213,2018-01-28,open,Revocable Trust,Taxable,25000
+ACC-001214,2012-12-13,open,Individual Brokerage,Taxable,500
+ACC-001215,2012-08-03,open,Rollover IRA,Tax-Deferred,1000
+ACC-001216,2014-10-12,open,Revocable Trust,Taxable,25000
+ACC-001217,2013-12-19,open,Roth IRA,Tax-Free,250
+ACC-001218,2016-04-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-001219,2022-04-14,open,Roth IRA,Tax-Free,250
+ACC-001220,2024-03-04,open,Traditional IRA,Tax-Deferred,250
+ACC-001221,2013-12-15,open,Revocable Trust,Taxable,25000
+ACC-001222,2016-02-01,open,Individual Brokerage,Taxable,500
+ACC-001223,2022-04-28,open,Revocable Trust,Taxable,25000
+ACC-001224,2018-04-28,open,Individual Brokerage,Taxable,500
+ACC-001225,2015-07-26,open,Individual Brokerage,Taxable,500
+ACC-001226,2024-08-04,open,Traditional IRA,Tax-Deferred,250
+ACC-001227,2024-12-03,open,Individual Brokerage,Taxable,500
+ACC-001228,2016-11-24,open,Rollover IRA,Tax-Deferred,1000
+ACC-001229,2018-01-11,open,"529 Education Savings",Tax-Free,100
+ACC-001230,2017-09-18,open,Roth IRA,Tax-Free,250
+ACC-001231,2026-09-16,open,"529 Education Savings",Tax-Free,100
+ACC-001232,2026-06-12,open,Traditional IRA,Tax-Deferred,250
+ACC-001233,2020-05-09,open,Revocable Trust,Taxable,25000
+ACC-001234,2020-05-04,open,"529 Education Savings",Tax-Free,100
+ACC-001235,2020-03-18,open,"529 Education Savings",Tax-Free,100
+ACC-001236,2015-09-24,open,Traditional IRA,Tax-Deferred,250
+ACC-001237,2015-09-02,open,Individual Brokerage,Taxable,500
+ACC-001238,2026-09-16,open,Roth IRA,Tax-Free,250
+ACC-001239,2019-11-12,open,"529 Education Savings",Tax-Free,100
+ACC-001240,2017-03-25,open,Revocable Trust,Taxable,25000
+ACC-001241,2017-01-21,open,Individual Brokerage,Taxable,500
+ACC-001242,2019-03-20,open,Individual Brokerage,Taxable,500
+ACC-001243,2019-07-05,open,"529 Education Savings",Tax-Free,100
+ACC-001244,2019-04-04,open,Roth IRA,Tax-Free,250
+ACC-001245,2025-09-22,open,Traditional IRA,Tax-Deferred,250
+ACC-001246,2020-06-14,closed,"529 Education Savings",Tax-Free,100
+ACC-001247,2022-10-21,open,Revocable Trust,Taxable,25000
+ACC-001248,2018-10-22,open,Traditional IRA,Tax-Deferred,250
+ACC-001249,2019-09-12,open,Individual Brokerage,Taxable,500
+ACC-001250,2021-11-29,open,"529 Education Savings",Tax-Free,100
+ACC-001251,2023-10-09,open,Revocable Trust,Taxable,25000
+ACC-001252,2022-09-19,closed,Traditional IRA,Tax-Deferred,250
+ACC-001253,2017-01-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-001254,2016-03-24,open,Roth IRA,Tax-Free,250
+ACC-001255,2017-04-23,open,Traditional IRA,Tax-Deferred,250
+ACC-001256,2015-05-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001257,2015-01-31,open,Roth IRA,Tax-Free,250
+ACC-001258,2020-10-08,open,Traditional IRA,Tax-Deferred,250
+ACC-001259,2022-09-01,open,"529 Education Savings",Tax-Free,100
+ACC-001260,2022-04-24,open,Individual Brokerage,Taxable,500
+ACC-001261,2014-07-06,open,"529 Education Savings",Tax-Free,100
+ACC-001262,2014-02-25,open,Individual Brokerage,Taxable,500
+ACC-001263,2025-09-30,open,Individual Brokerage,Taxable,500
+ACC-001264,2019-11-11,open,Rollover IRA,Tax-Deferred,1000
+ACC-001265,2019-08-01,open,Roth IRA,Tax-Free,250
+ACC-001266,2024-03-06,open,Individual Brokerage,Taxable,500
+ACC-001267,2021-02-02,open,Revocable Trust,Taxable,25000
+ACC-001268,2016-12-27,closed,"529 Education Savings",Tax-Free,100
+ACC-001269,2016-12-29,open,Individual Brokerage,Taxable,500
+ACC-001270,2026-09-09,open,Rollover IRA,Tax-Deferred,1000
+ACC-001271,2014-06-01,open,Traditional IRA,Tax-Deferred,250
+ACC-001272,2014-05-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-001273,2025-02-26,open,Revocable Trust,Taxable,25000
+ACC-001274,2017-06-08,open,Revocable Trust,Taxable,25000
+ACC-001275,2018-08-06,open,"529 Education Savings",Tax-Free,100
+ACC-001276,2017-10-21,open,Individual Brokerage,Taxable,500
+ACC-001277,2018-04-18,open,Traditional IRA,Tax-Deferred,250
+ACC-001278,2016-09-06,open,Rollover IRA,Tax-Deferred,1000
+ACC-001279,2020-05-24,open,Traditional IRA,Tax-Deferred,250
+ACC-001280,2017-12-18,open,Traditional IRA,Tax-Deferred,250
+ACC-001281,2017-11-15,open,Individual Brokerage,Taxable,500
+ACC-001282,2017-12-26,open,Roth IRA,Tax-Free,250
+ACC-001283,2021-05-21,open,Traditional IRA,Tax-Deferred,250
+ACC-001284,2017-11-03,open,Revocable Trust,Taxable,25000
+ACC-001285,2019-07-25,open,Roth IRA,Tax-Free,250
+ACC-001286,2020-01-25,open,Revocable Trust,Taxable,25000
+ACC-001287,2014-07-06,open,Individual Brokerage,Taxable,500
+ACC-001288,2013-08-10,open,Traditional IRA,Tax-Deferred,250
+ACC-001289,2014-08-08,open,Individual Brokerage,Taxable,500
+ACC-001290,2014-06-27,open,Roth IRA,Tax-Free,250
+ACC-001291,2014-07-30,open,Revocable Trust,Taxable,25000
+ACC-001292,2024-07-27,open,Individual Brokerage,Taxable,500
+ACC-001293,2024-05-22,open,Revocable Trust,Taxable,25000
+ACC-001294,2015-02-13,open,Revocable Trust,Taxable,25000
+ACC-001295,2015-01-01,open,Traditional IRA,Tax-Deferred,250
+ACC-001296,2016-09-18,open,Individual Brokerage,Taxable,500
+ACC-001297,2016-06-21,open,Traditional IRA,Tax-Deferred,250
+ACC-001298,2013-05-30,open,Individual Brokerage,Taxable,500
+ACC-001299,2025-01-21,open,Revocable Trust,Taxable,25000
+ACC-001300,2024-03-20,open,Traditional IRA,Tax-Deferred,250
+ACC-001301,2016-09-27,open,Traditional IRA,Tax-Deferred,250
+ACC-001302,2021-10-19,open,Rollover IRA,Tax-Deferred,1000
+ACC-001303,2023-05-05,open,Traditional IRA,Tax-Deferred,250
+ACC-001304,2023-07-09,open,"529 Education Savings",Tax-Free,100
+ACC-001305,2012-10-12,open,Rollover IRA,Tax-Deferred,1000
+ACC-001306,2022-02-03,open,"529 Education Savings",Tax-Free,100
+ACC-001307,2023-02-06,open,Roth IRA,Tax-Free,250
+ACC-001308,2025-08-20,open,Traditional IRA,Tax-Deferred,250
+ACC-001309,2025-10-24,open,Revocable Trust,Taxable,25000
+ACC-001310,2015-10-28,open,Traditional IRA,Tax-Deferred,250
+ACC-001311,2020-05-04,open,Revocable Trust,Taxable,25000
+ACC-001312,2019-07-26,closed,Revocable Trust,Taxable,25000
+ACC-001313,2020-09-09,open,Roth IRA,Tax-Free,250
+ACC-001314,2014-08-03,open,Roth IRA,Tax-Free,250
+ACC-001315,2020-09-28,open,Traditional IRA,Tax-Deferred,250
+ACC-001316,2018-12-16,open ,Rollover IRA,Tax-Deferred,1000
+ACC-001317,2013-08-11,open,Individual Brokerage,Taxable,500
+ACC-001318,2018-05-27,open,Roth IRA,Tax-Free,250
+ACC-001319,2017-05-20,open,Rollover IRA,Tax-Deferred,1000
+ACC-001320,2023-03-19,open,"529 Education Savings",Tax-Free,100
+ACC-001321,2020-10-07,open,Rollover IRA,Tax-Deferred,1000
+ACC-001322,2021-05-08,open,Traditional IRA,Tax-Deferred,250
+ACC-001323,2021-08-20,open,Individual Brokerage,Taxable,500
+ACC-001324,2018-07-25,open,Roth IRA,Tax-Free,250
+ACC-001325,2018-06-13,open,Rollover IRA,Tax-Deferred,1000
+ACC-001326,2012-11-24,open,Individual Brokerage,Taxable,500
+ACC-001327,2014-11-22,open,"529 Education Savings",Tax-Free,100
+ACC-001328,2024-10-08,open,Rollover IRA,Tax-Deferred,1000
+ACC-001329,2025-01-04,open,Revocable Trust,Taxable,25000
+ACC-001330,2026-07-05,open,Rollover IRA,Tax-Deferred,1000
+ACC-001331,2025-07-23,open,"529 Education Savings",Tax-Free,100
+ACC-001332,2015-12-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001333,2015-06-16,open,Roth IRA,Tax-Free,250
+ACC-001334,2015-11-11,open,Revocable Trust,Taxable,25000
+ACC-001335,2025-10-19,open,"529 Education Savings",Tax-Free,100
+ACC-001336,2025-07-19,open,Individual Brokerage,Taxable,500
+ACC-001337,2016-11-29,open,"529 Education Savings",Tax-Free,100
+ACC-001338,2018-05-09,open,"529 Education Savings",Tax-Free,100
+ACC-001339,2018-07-12,closed,Rollover IRA,Tax-Deferred,1000
+ACC-001340,2020-03-27,open,"529 Education Savings",Tax-Free,100
+ACC-001341,2022-11-15,open ,"529 Education Savings",Tax-Free,100
+ACC-001342,2022-05-09,open,Traditional IRA,Tax-Deferred,250
+ACC-001343,2020-09-26,open,Individual Brokerage,Taxable,500
+ACC-001344,2020-09-22,open,Revocable Trust,Taxable,25000
+ACC-001345,2015-12-03,open,Revocable Trust,Taxable,25000
+ACC-001346,2014-09-29,open,Roth IRA,Tax-Free,250
+ACC-001347,2024-08-14,open,Individual Brokerage,Taxable,500
+ACC-001348,2024-09-21,open,Rollover IRA,Tax-Deferred,1000
+ACC-001349,2025-05-06,open,Revocable Trust,Taxable,25000
+ACC-001350,2013-05-25,open,Traditional IRA,Tax-Deferred,250
+ACC-001351,2022-10-05,open,Roth IRA,Tax-Free,250
+ACC-001352,2023-05-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-001353,2016-10-17,open,Individual Brokerage,Taxable,500
+ACC-001354,2017-06-03,open,Revocable Trust,Taxable,25000
+ACC-001355,2018-01-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-001356,2018-01-09,open,Individual Brokerage,Taxable,500
+ACC-001357,2013-04-26,open,Individual Brokerage,Taxable,500
+ACC-001358,2021-07-12,open,Rollover IRA,Tax-Deferred,1000
+ACC-001359,2021-07-17,open,Revocable Trust,Taxable,25000
+ACC-001360,2018-12-30,open,Rollover IRA,Tax-Deferred,1000
+ACC-001361,2019-08-04,open,Individual Brokerage,Taxable,500
+ACC-001362,2024-01-24,open,Traditional IRA,Tax-Deferred,250
+ACC-001363,2017-03-11,open,Revocable Trust,Taxable,25000
+ACC-001364,2022-10-02,open,Individual Brokerage,Taxable,500
+ACC-001365,2022-07-16,open,Traditional IRA,Tax-Deferred,250
+ACC-001366,2012-05-27,open,Rollover IRA,Tax-Deferred,1000
+ACC-001367,2020-06-25,open,Rollover IRA,Tax-Deferred,1000
+ACC-001368,2019-05-02,open,"529 Education Savings",Tax-Free,100
+ACC-001369,2021-06-29,open,Rollover IRA,Tax-Deferred,1000
+ACC-001370,2013-02-09,open,Individual Brokerage,Taxable,500
+ACC-001371,2013-03-28,open,Roth IRA,Tax-Free,250
+ACC-001372,2012-05-25,open,"529 Education Savings",Tax-Free,100
+ACC-001373,2023-12-13,open,Revocable Trust,Taxable,25000
+ACC-001374,2024-09-11,open,Roth IRA,Tax-Free,250
+ACC-001375,2019-11-29,open,Roth IRA,Tax-Free,250
+ACC-001376,2020-11-22,open,"529 Education Savings",Tax-Free,100
+ACC-001377,2020-11-19,open,Revocable Trust,Taxable,25000
+ACC-001378,2021-02-25,open,Roth IRA,Tax-Free,250
+ACC-001379,2013-05-10,open,Rollover IRA,Tax-Deferred,1000
+ACC-001380,2012-11-03,open,Traditional IRA,Tax-Deferred,250
+ACC-001381,2025-01-07,restricted,"529 Education Savings",Tax-Free,100
+ACC-001382,2024-12-20,open ,Rollover IRA,Tax-Deferred,1000
+ACC-001383,2024-07-12,open,Revocable Trust,Taxable,25000

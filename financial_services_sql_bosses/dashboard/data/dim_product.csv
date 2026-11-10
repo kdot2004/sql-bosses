@@ -1,0 +1,11 @@
+"product_key","product_name","product_category","min_investable_assets","min_risk_tolerance","required_advisor_certification","annual_fee_pct"
+PRD-01,Managed Portfolio Service,Advisory,50000,Conservative,None,0.85
+PRD-02,Tax-Loss Harvesting,Advisory,100000,Moderate,None,0.25
+PRD-03,Retirement Income Planning,Planning,150000,Conservative,CFP,0.5
+PRD-04,"529 Education Savings Program",Planning,10000,Conservative,None,0.0
+PRD-05,Estate Planning Service,Planning,500000,Conservative,CFP,0.4
+PRD-06,Trust & Fiduciary Services,Trust,750000,Conservative,CFP,0.6
+PRD-07,Private Credit Access,Alternatives,250000,Aggressive,CFA,1.25
+PRD-08,Alternative Investments Access,Alternatives,500000,Aggressive,CFA,1.4
+PRD-09,Concierge Banking,Banking,1000000,Conservative,None,0.0
+PRD-10,Securities-Backed Lending,Lending,300000,Moderate,None,0.0
