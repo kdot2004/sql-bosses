@@ -11,6 +11,7 @@ engineering concepts through a financial services use case.
 | Mark | [Responsibilities] |
 | Dylan | [Responsibilities] |
 | Kenny | [Responsibilities] |
+| Soham | [Responsibilities] |
 
 ## Business Problem
 Describe the financial services problem your project addresses.
@@ -53,7 +54,7 @@ Describe the main tables and their relationships.
 - **Dimension tables:** [Accounts, customers, dates, etc.]
 - **Keys:** [Primary and foreign keys]
 
-[Insert entity relationship diagram here.]
+<img width="986" height="876" alt="Screenshot 2026-11-11 162917" src="https://github.com/user-attachments/assets/2b230c28-3b13-4a43-90cd-0ed389f404ae" />
 
 ## Data Processing
 ### Ingestion
