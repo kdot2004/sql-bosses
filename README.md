@@ -1,24 +1,24 @@
 # SQL Bosses 
 
 ## Overview
-This project builds a data pipeline to ingest, clean, transform, and analyze
-[financial dataset]. Developed for `I320D Data Engineering`, it demonstrates core data
-engineering concepts through a financial services use case.
+This project builds a data pipeline to ingest, clean, transform, visualize, 
+and analyze a financial services dataset. Developed for `I320D Data Engineering`.
 
 ## Team Members
 | Name | Responsibilities |
 |------|------------------|
-| Mark | [Responsibilities] |
-| Dylan | [Responsibilities] |
-| Kenny | [Responsibilities] |
+| Mark | Data Ingestion, Programming |
+| Dylan | Data Modeling |
+| Kenny | Data Visualization (PowerBI) |
 | Soham | [Responsibilities] |
 
-## Business Problem
-Describe the financial services problem your project addresses.
+## Business Problems
 
-- **Problem:** [What challenge are you solving?]
-- **Audience:** [Who would use the data or insights?]
-- **Goal:** [What will the pipeline enable?]
+1. How does gross amount by asset class vary by advisor?
+2. How does gross amount vary by branch?
+3. How does customer income band affect account type? 
+4. How does customer risk tolerance affect security asset class type?
+5. Which advisors have the highest gross amount divided by amount of assigned customers?
 
 ## Data Sources
 | Source | Description | Format | Access Method |
@@ -49,10 +49,10 @@ Source → Ingestion → Raw Storage → Transformation → Analytics Tables →
 ## Data Model
 Describe the main tables and their relationships.
 
-- **Grain:** [What one row represents in each main table]
-- **Fact tables:** [Transactions, payments, etc.]
-- **Dimension tables:** [Accounts, customers, dates, etc.]
-- **Keys:** [Primary and foreign keys]
+- **Fact tables:** investment_transactions
+- **Dimension tables:** accounts, account_types, customers, products, advisors, branches, securities, asset_classes
+    - Junction table: customer_products
+- **Keys:** account_id, account_type_id, customer_id, product_id, advisor_id, branch_id, security_id, asset_class_id
 
 <img width="986" height="876" alt="Screenshot 2026-11-11 162917" src="https://github.com/user-attachments/assets/2b230c28-3b13-4a43-90cd-0ed389f404ae" />
 
