@@ -1,0 +1,41 @@
+security_id,ticker,security_name,asset_class_id,security_type,expense_ratio_pct,reference_price
+SEC-001,ZMYWX,Total US Market Index Fund,ACL-03,ETF,0.5,194.74
+SEC-002,ZTWEX,US Large Cap Index Fund,ACL-03,ETF,0.87,175.65
+SEC-003,ZJPFX,US Mid Cap Index Fund,ACL-03,ETF,0.4,39.21
+SEC-004,ZRJDX,US Small Cap Index Fund,ACL-03,ETF,1.02,230.48
+SEC-005,ZAYPX,International Developed Index Fund,ACL-03,Mutual Fund,0.05,92.48
+SEC-006,ZNYRX,Emerging Markets Equity Fund,ACL-03,ETF,0.2,203.11
+SEC-007,ZRCQX,Large Cap Growth Fund,ACL-03,ETF,0.28,196.37
+SEC-008,ZAJBX,Large Cap Value Fund,ACL-03,Mutual Fund,0.08,153.62
+SEC-009,ZXJHX,Dividend Leaders Fund,ACL-03,ETF,0.42,29.36
+SEC-010,ZWDYX,Technology Sector Fund,ACL-03,ETF,0.37,113.88
+SEC-011,ZDTCX,Healthcare Sector Fund,ACL-03,ETF,0.76,152.77
+SEC-012,ZQMAX,Financials Sector Fund,ACL-03,ETF,0.71,131.66
+SEC-013,ZGTTX,Energy Sector Fund,ACL-03,ETF,0.05,209.93
+SEC-014,ZPEQX,Consumer Staples Sector Fund,ACL-03,ETF,0.36,162.52
+SEC-015,ZYCLX,Clean Energy Fund,ACL-03,ETF,0.75,41.65
+SEC-016,ZDLAX,ESG Leaders Fund,ACL-03,ETF,0.36,236.0
+SEC-017,ZFQPX,Global Infrastructure Fund,ACL-03,ETF,0.81,47.36
+SEC-018,ZURXX,US Aggregate Bond Index Fund,ACL-02,ETF,0.62,237.76
+SEC-019,ZAAUX,Short-Term Treasury Fund,ACL-02,ETF,0.9,115.56
+SEC-020,ZMANX,Intermediate Treasury Fund,ACL-02,Mutual Fund,0.13,220.88
+SEC-021,ZTVVX,Long-Term Treasury Fund,ACL-02,ETF,0.63,111.97
+SEC-022,ZLALX,Investment Grade Corporate Fund,ACL-02,ETF,0.03,68.82
+SEC-023,ZXVVX,High Yield Corporate Fund,ACL-02,Mutual Fund,1.07,26.16
+SEC-024,ZDRPX,Municipal Bond Fund,ACL-02,Mutual Fund,1.02,186.25
+SEC-025,ZAEDX,Inflation-Protected Securities Fund,ACL-02,ETF,0.48,78.6
+SEC-026,ZNXQX,Emerging Markets Debt Fund,ACL-02,Mutual Fund,0.83,185.15
+SEC-027,ZWHHX,Floating Rate Notes Fund,ACL-02,ETF,0.22,116.0
+SEC-028,ZVDMX,Prime Money Market Fund,ACL-01,ETF,0.62,52.96
+SEC-029,ZDSWX,Treasury Money Market Fund,ACL-01,ETF,1.04,70.15
+SEC-030,ZATSX,Ultra-Short Income Fund,ACL-01,Mutual Fund,1.07,184.34
+SEC-031,ZQCGX,US REIT Index Fund,ACL-04,ETF,0.57,200.93
+SEC-032,ZAEPX,Global REIT Fund,ACL-04,ETF,0.97,47.36
+SEC-033,ZAKYX,Commercial Mortgage Income Fund,ACL-04,ETF,0.47,62.06
+SEC-034,ZVFBX,Gold Trust Fund,ACL-05,Mutual Fund,0.4,219.46
+SEC-035,ZDKGX,Broad Commodity Index Fund,ACL-05,ETF,1.05,131.88
+SEC-036,ZSREX,Energy Futures Fund,ACL-05,ETF,0.13,231.16
+SEC-037,ZBBPX,Managed Futures Strategy Fund,ACL-06,ETF,0.62,68.7
+SEC-038,ZHETX,Private Credit Interval Fund Fund,ACL-06,ETF,0.65,111.88
+SEC-039,ZWWDX,Market Neutral Strategy Fund,ACL-06,Mutual Fund,0.32,193.27
+SEC-040,ZEPRX,Infrastructure Interval Fund Fund,ACL-06,Mutual Fund,0.92,99.07

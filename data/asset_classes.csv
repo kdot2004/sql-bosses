@@ -1,0 +1,7 @@
+asset_class_id,asset_class_name,risk_level
+ACL-01,Cash & Equivalents,1
+ACL-02,Fixed Income,2
+ACL-03,Equity,4
+ACL-04,Real Estate,3
+ACL-05,Commodities,4
+ACL-06,Alternatives,5

@@ -1,0 +1,9 @@
+branch_id,branch_name,city,state,region
+BRN-01,Downtown Columbus,Columbus,OH,Midwest
+BRN-02,Cleveland Lakefront,Cleveland,OH,Midwest
+BRN-03,Cincinnati Riverfront,Cincinnati,OH,Midwest
+BRN-04,Chicago Loop,Chicago,IL,Midwest
+BRN-05,Indianapolis Circle,Indianapolis,IN,Midwest
+BRN-06,Detroit Midtown,Detroit,MI,Midwest
+BRN-07,Pittsburgh Strip,Pittsburgh,PA,Northeast
+BRN-08,Louisville Highlands,Louisville,KY,South
