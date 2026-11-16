@@ -1,0 +1,107 @@
+version: 2
+
+models:
+  - name: dim_account_type
+    columns:
+      - name: account_type_key
+        tests: [unique, not_null]
+
+  - name: dim_account
+    columns:
+      - name: account_key
+        tests: [unique, not_null]
+      - name: account_type_key
+        tests:
+          - relationships:
+              to: ref('dim_account_type')
+              field: account_type_key
+      - name: customer_key
+        tests:
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_key
+
+  - name: dim_branch
+    columns:
+      - name: branch_key
+        tests: [unique, not_null]
+
+  - name: dim_advisor
+    columns:
+      - name: advisor_key
+        tests: [unique, not_null]
+      - name: branch_key
+        tests:
+          - relationships:
+              to: ref('dim_branch')
+              field: branch_key
+
+  - name: dim_customer
+    columns:
+      - name: customer_key
+        tests: [unique, not_null]
+      - name: advisor_key
+        tests:
+          - relationships:
+              to: ref('dim_advisor')
+              field: advisor_key
+
+  - name: dim_asset_class
+    columns:
+      - name: asset_class_key
+        tests: [unique, not_null]
+
+  - name: dim_security
+    columns:
+      - name: security_key
+        tests: [unique, not_null]
+      - name: asset_class_key
+        tests:
+          - relationships:
+              to: ref('dim_asset_class')
+              field: asset_class_key
+
+  - name: dim_product
+    columns:
+      - name: product_key
+        tests: [unique, not_null]
+
+  - name: fact_investment_transactions
+    columns:
+      - name: transaction_key
+        tests: [unique, not_null]
+      - name: account_key
+        tests:
+          - relationships:
+              to: ref('dim_account')
+              field: account_key
+      - name: customer_key
+        tests:
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_key
+      - name: security_key
+        tests:
+          - relationships:
+              to: ref('dim_security')
+              field: security_key
+      - name: advisor_key
+        tests:
+          - relationships:
+              to: ref('dim_advisor')
+              field: advisor_key
+
+  - name: fact_customer_products
+    columns:
+      - name: customer_product_key
+        tests: [unique, not_null]
+      - name: customer_key
+        tests:
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_key
+      - name: product_key
+        tests:
+          - relationships:
+              to: ref('dim_product')
+              field: product_key
