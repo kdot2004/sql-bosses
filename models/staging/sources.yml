@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: sql_bosses
+    schema: sql_bosses
+    tables:
+      - name: securities
+      - name: products
+      - name: investment_transactions
+      - name: customers
+      - name: customer_products
+      - name: branches
+      - name: asset_classes
+      - name: advisors
+      - name: accounts
+      - name: account_types
