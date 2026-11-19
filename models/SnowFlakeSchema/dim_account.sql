@@ -5,7 +5,7 @@ SELECT
     EXTRACT(YEAR FROM open_date)::int AS open_year,
     EXTRACT(MONTH FROM open_date)::int AS open_month,
     account_status,
-    (account_status LIKE 'active') AS is_active,
+    (account_status LIKE 'Open') AS is_active,
     CASE
     WHEN open_date >= DATE '2026-09-30' - INTERVAL '1 year'  THEN '< 1 year'
     WHEN open_date >= DATE '2026-09-30' - INTERVAL '5 years' THEN '1–5 years'
