@@ -1,0 +1,26 @@
+"advisor_key","advisor_name","certification","hire_date","tenure_years","tenure_group","client_capacity","branch_name","city","state","region"
+ADV-001,Evelyn Thomas,ChFC,2018-09-01,8,"6-10",67,Downtown Columbus,Columbus,OH,Midwest
+ADV-002,Yara Baker,ChFC,2021-10-08,5,"1-5",66,Downtown Columbus,Columbus,OH,Midwest
+ADV-003,Olivia Chen,CFA,2022-12-08,3,"1-5",72,Chicago Loop,Chicago,IL,Midwest
+ADV-004,Dylan Rivera,None,2014-02-15,12,"10-14",81,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-005,Hiro Miller,CFP,2013-12-03,12,"10-14",72,Detroit Midtown,Detroit,MI,Midwest
+ADV-006,Luke Khan,ChFC,2023-02-05,3,"1-5",45,Pittsburgh Strip,Pittsburgh,PA,Northeast
+ADV-007,Harper Jackson,CFP,2017-10-13,9,"6-10",79,Detroit Midtown,Detroit,MI,Midwest
+ADV-008,Ethan Thomas,CFA,2017-04-20,9,"6-10",58,Indianapolis Circle,Indianapolis,IN,Midwest
+ADV-009,Keiko Lopez,None,2006-04-16,20,"15+",68,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-010,Imani Ramirez,None,2018-11-03,8,"6-10",73,Chicago Loop,Chicago,IL,Midwest
+ADV-011,Chloe Kim,ChFC,2020-08-16,6,"6-10",55,Chicago Loop,Chicago,IL,Midwest
+ADV-012,Emma Clark,CFA,2017-06-09,9,"6-10",86,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-013,Liam Singh,ChFC,2017-07-25,9,"6-10",69,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-014,Grace Lee,CFP,2012-07-30,14,"10-14",65,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-015,Diego Martinez,CFA,2016-11-26,9,"6-10",60,Pittsburgh Strip,Pittsburgh,PA,Northeast
+ADV-016,Amelia Kowalski,CFP,2011-11-29,14,"10-14",57,Detroit Midtown,Detroit,MI,Midwest
+ADV-017,Imani Wang,None,2004-05-02,22,"15+",80,Indianapolis Circle,Indianapolis,IN,Midwest
+ADV-018,Lily Kowalski,Series 65,2006-01-31,20,"15+",59,Chicago Loop,Chicago,IL,Midwest
+ADV-019,Ethan Wright,None,2024-05-23,2,"1-5",60,Downtown Columbus,Columbus,OH,Midwest
+ADV-020,Ava Lopez,CFP,2020-04-05,6,"6-10",63,Detroit Midtown,Detroit,MI,Midwest
+ADV-021,Arjun Walker,ChFC,2014-02-13,12,"10-14",66,Cleveland Lakefront,Cleveland,OH,Midwest
+ADV-022,Omar Smith,CFA,2023-10-18,3,"1-5",47,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-023,Darius Jones,CFP,2023-11-02,3,"1-5",85,Detroit Midtown,Detroit,MI,Midwest
+ADV-024,Lucas Williams,CFP,2013-03-21,13,"10-14",83,Cincinnati Riverfront,Cincinnati,OH,Midwest
+ADV-025,Sophia Clark,ChFC,2023-09-23,3,"1-5",51,Chicago Loop,Chicago,IL,Midwest
