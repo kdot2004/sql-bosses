@@ -7,10 +7,10 @@ and analyze a financial services dataset. Developed for `I320D Data Engineering`
 ## Team Members
 | Name | Responsibilities |
 |------|------------------|
-| Mark | Data Ingestion, Programming |
+| Mark | Data Ingestion, Data Transformation |
 | Dylan | Data Modeling |
-| Kenny | Data Visualization (PowerBI) |
-| Soham | [Responsibilities] |
+| Kenny | Data Visualization |
+| Soham | Data Products |
 
 ## Business Problems
 
@@ -21,23 +21,26 @@ and analyze a financial services dataset. Developed for `I320D Data Engineering`
 5. Which advisors have the highest gross amount divided by amount of assigned customers?
 
 ## Data Sources
-| Source | Description | Format | Access Method |
+| Source | Rows | Description | Access Method |
 |--------|-------------|--------|---------------|
-| [Source] | [Data provided] | [CSV/JSON/etc.] | [API/download/etc.] |
-
-Include:
-- Dataset links and usage restrictions
-- Date range and approximate data volume
-- Important fields and known limitations
+| account_types.csv | 6 | Types of accounts, tax treatment, and minimum balance | direct download |
+| accounts.csv | 1,383 | Customer accounts, type, open date, and status | direct download |
+| advisors.csv | 25 | Financial advisors, branch, certification, and client capacity | direct download |
+| asset_classes.csv | 6 | Investment categories and risk level | direct download |
+| branches.csv | 8 | Branch offices, location, and region | direct download |
+| customer_products.csv | 937 | Represents a customer's enrollment in a product | direct download |
+| customers.csv | 905 | Customers, income band, risk tolerance, and advisor | direct download |
+| investment_transactions.csv | 16,551 | Trades with date, type, status, quantity, price, gross amount, and fees | direct download |
+| products.csv | 10 | Products, qualification details, and annual fee | direct download |
+| securities.csv | 40 | Tradable securities/assets, asset class, and reference price | direct download |
 
 ## Technology Stack
 | Component | Tool | Purpose |
 |-----------|------|---------|
-| Programming | [Python/SQL] | [Purpose] |
-| Database | [PostgreSQL/etc.] | [Purpose] |
-| Transformation | [dbt/etc.] | [Purpose] |
-| Orchestration | [Airflow/etc.] | [Purpose] |
-| Visualization | [Power BI/etc.] | [Purpose] |
+| Programming | SQL | create and store tables, query information |
+| Database | PostgreSQL | run DDL and load CSV files |
+| Transformation | dbt, JupyterLab | run dbt models to create fact/dimension tables and data products |
+| Visualization | Superset, PowerBI | create dashboard to visualize data products |
 
 ## Pipeline Architecture
 Describe how data moves through the system:
@@ -84,13 +87,11 @@ project/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
-├── data/             # Sample data or data instructions
-├── ingestion/        # Data extraction and loading
-├── transformations/  # SQL or dbt models
-├── orchestration/    # Pipeline scheduling
-├── tests/            # Data and pipeline checks
-├── dashboards/       # Reports and visualizations
-└── docs/             # Architecture and supporting documentation
+├── data/             # Provided financial services dataset
+├── starter/          # Example staging and SQL/dbt setup files
+├── load/             # Scripts to load raw schema
+├── models/           # SQL or dbt models
+└── dashboards/       # Reports and visualizations
 ```
 
 ## Setup and Usage
