@@ -1,7 +1,0 @@
-account_type_id,account_type_name,tax_treatment,min_opening_balance
-ATY-01,Individual Brokerage,Taxable,500
-ATY-02,Traditional IRA,Tax-Deferred,250
-ATY-03,Roth IRA,Tax-Free,250
-ATY-04,Rollover IRA,Tax-Deferred,1000
-ATY-05,529 Education Savings,Tax-Free,100
-ATY-06,Revocable Trust,Taxable,25000
